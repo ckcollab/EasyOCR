@@ -1,0 +1,5 @@
+fonts/*.ttf
+fonts/*.otf
+fonts_OLD/*
+all_data*/
+saved_models*/

@@ -1,0 +1,3232 @@
+Label	Description
+Low Quality	Low Quality
+Damaged	Damaged
+Cracked	Cracked
+Crude	Crude
+Hiquality	Superior
+Gemmed	Gemmed
+Resiliant	Resilient
+Sturdy	Sturdy
+Strong	Strong
+Glorious	Glorious
+Blessed	Blessed
+Saintly	Saintly
+Holy	Holy
+Devious	Devious
+Fortified	Fortified
+Urgent	Urgent
+Fleet	Fleet
+Muscular	Muscular
+Jagged	Jagged
+Deadly	Deadly
+Vicious	Vicious
+Brutal	Brutal
+Massive	Massive
+Savage	Savage
+Merciless	Merciless
+Vulpine	Vulpine
+Swift	Swift
+Artful	Artful
+Skillful	Skillful
+Adroit	Adroit
+Tireless	Tireless
+Rugged	Rugged
+Bronze	Bronze
+Iron	Iron
+Steel	Steel
+Silver	Silver
+Gold	Gold
+Platinum	Platinum
+Meteoric	Meteoric
+Sharp	Sharp
+Fine	Fine
+Warrior's	Warrior's
+Soldier's	Soldier's
+Knight's	Knight's
+Lord's	Lord's
+King's	King's
+Howling	Howling
+Fortuitous	Fortuitous
+Brilliant	Brilliant
+Omniscient	Omniscient
+Sage	Sage
+Shrewd	Shrewd
+Vivid	Vivid
+Glimmering	Glimmering
+Glowing	Glowing
+Bright	Bright
+Solar	Solar
+Lizard's	Lizard's
+Forceful	Forceful
+Snake's	Snake's
+Serpent's	Serpent's
+Drake's	Drake's
+Dragon's	Dragon's
+Wyrm's	Wyrm's
+Dazzling	Dazzling
+Facinating	Fascinating
+Prismatic	Prismatic
+Azure	Azure
+Lapis	Lapis
+Cobalt	Cobalt
+Indigo	Indigo
+Sapphire	Sapphire
+Cerulean	Cerulean
+Red	Red
+Crimson	Crimson
+Burgundy	Burgundy
+Garnet	Garnet
+Russet	Russet
+Ruby	Ruby
+Vermilion	Vermilion
+Orange	Orange
+Ocher	Ocher
+Tangerine	Tangerine
+Coral	Coral
+Crackling	Crackling
+Amber	Amber
+Forked	Forked
+Green	Green
+Beryl	Beryl
+Jade	Jade
+Viridian	Viridian
+Vital	Vital
+Emerald	Emerald
+Enduring	Enduring
+Fletcher's	Fletcher's
+Archer's	Archer's
+Monk's	Monk's
+Priest's	Priest's
+Summoner's	Summoner's
+Necromancer's	Necromancer's
+Angel's	Angel's
+Arch-Angel's	Arch-Angel's
+Slayer's	Slayer's
+Berserker's	Berserker's
+Kicking	Kicking
+Triumphant	Triumphant
+Mighty	Mighty
+Energizing	Energizing
+Strengthening	Strengthening
+Empowering	Empowering
+Brisk	Brisk
+Tough	Tough
+Hardy	Hardy
+Robust	Robust
+of Health	of Health
+of Protection	of Protection
+of Absorption	of Absorption
+of Warding	of Warding
+of the Sentinel	of the Sentinel
+of Guarding	of Guarding
+of Negation	of Negation
+of Piercing	of Piercing
+of Bashing	of Bashing
+of Puncturing	of Puncturing
+of Thorns	of Thorns
+of Spikes	of Spikes
+of Readiness	of Readiness
+of Alacrity	of Alacrity
+of Swiftness	of Swiftness
+of Quickness	of Quickness
+of Blocking	of Blocking
+of Deflecting	of Deflecting
+of the Apprentice	of the Apprentice
+of the Magus	of the Magus
+of Frost	of Frost
+of the Glacier	of the Glacier
+of Warmth	of Thawing
+of Flame	of Flame
+of Fire	of Fire
+of Burning	of Burning
+of Shock	of Shock
+of Lightning	of Lightning
+of Thunder	of Thunder
+of Craftsmanship	of Craftmanship
+of Quality	of Quality
+of Maiming	of Maiming
+of Slaying	of Slaying
+of Gore	of Gore
+of Carnage	of Carnage
+of Slaughter	of Slaughter
+of Worth	of Worth
+of Measure	of Measure
+of Excellence	of Excellence
+of Performance	of Performance
+of Blight	of Blight
+of Venom	of Venom
+of Pestilence	of Pestilence
+of Dexterity	of Dexterity
+of Skill	of Skill
+of Accuracy	of Accuracy
+of Precision	of Precision
+of Perfection	of Perfection
+of Balance	of Balance
+of Stability	of Stability
+of the Horse	of the Horse
+of Regeneration	of Regeneration
+of Regrowth	of Regrowth
+of Vileness	of Vileness
+of Greed	of Greed
+of Wealth	of Wealth
+of Chance	of Chance
+of Fortune	of Fortune
+of Energy	of Energy
+of the Mind	of the Mind
+of Brilliance	of Brilliance
+of Sorcery	of Sorcery
+of Wizardry	of Wizardry
+of the Bear	of the Bear
+of Light	of Light
+of Radiance	of Radiance
+of the Sun	of the Sun
+of Life	of Life
+of the Jackal	of the Jackal
+of the Fox	of the Fox
+of the Wolf	of the Wolf
+of the Tiger	of the Tiger
+of the Mammoth	of the Mammoth
+of the Colosuss	of the Colossus
+of the Leech	of the Leech
+of the Locust	of the Locust
+of the Bat	of the Bat
+of the Vampire	of the Vampire
+of Defiance	of Defiance
+of Remedy	of Remedy
+of Amelioration	of Amelioration
+of Ice	of Ice
+of Simplicity	of Simplicity
+of Ease	of Ease
+of the Mule	of the Mule
+of Strength	of Strength
+of Might	of Might
+of the Ox	of the Ox
+of the Giant	of the Giant
+of the Titan	of the Titan
+of Pacing	of Pacing
+of Haste	of Haste
+of Speed	of Speed
+cap	Cap
+skp	Skull Cap
+hlm	Helm
+fhl	Full Helm
+ghm	Great Helm
+crn	Crown
+msk	Mask
+qui	Quilted Armor
+lea	Leather Armor
+hla	Hard Leather Armor
+stu	Studded Leather
+rng	Ring Mail
+scl	Scale Mail
+chn	Chain Mail
+brs	Breast Plate
+spl	Splint Mail
+plt	Plate Mail
+fld	Field Plate
+gth	Gothic Plate
+ful	Full Plate Mail
+aar	Ancient Armor
+ltp	Light Plate
+buc	Buckler
+sml	Small Shield
+lrg	Large Shield
+kit	Kite Shield
+tow	Tower Shield
+gts	Gothic Shield
+lgl	Leather Gloves
+vgl	Heavy Gloves
+mgl	Chain Gloves
+tgl	Light Gauntlets
+hgl	Gauntlets
+lbt	Boots
+vbt	Heavy Boots
+mbt	Chain Boots
+tbt	Light Plated Boots
+hbt	Greaves
+lbl	Sash
+vbl	Light Belt
+mbl	Belt
+tbl	Heavy Belt
+hbl	Plated Belt
+bhm	Bone Helm
+bsh	Bone Shield
+spk	Spiked Shield
+hax	Hand Axe
+axe	Axe
+2ax	Double Axe
+mpi	Military Pick
+wax	War Axe
+lax	Large Axe
+bax	Broad Axe
+btx	Battle Axe
+gax	Great Axe
+gix	Giant Axe
+wnd	Wand
+ywn	Yew Wand
+bwn	Bone Wand
+gwn	Grim Wand
+clb	Club
+scp	Scepter
+gsc	Grand Scepter
+wsp	War Scepter
+spc	Spiked Club
+mac	Mace
+mst	Morning Star
+fla	Flail
+whm	War Hammer
+mau	Maul
+gma	Great Maul
+ssd	Short Sword
+scm	Scimitar
+sbr	Sabre
+flc	Falchion
+crs	Crystal Sword
+bsd	Broad Sword
+lsd	Long Sword
+wsd	War Sword
+2hs	Two-Handed Sword
+clm	Claymore
+gis	Giant Sword
+bsw	Bastard Sword
+flb	Flamberge
+gsd	Great Sword
+dgr	Dagger
+dir	Dirk
+kri	Kris
+bld	Blade
+tkf	Throwing Knife
+tax	Throwing Axe
+bkf	Balanced Knife
+bal	Balanced Axe
+jav	Javelin
+pil	Pilum
+ssp	Short Spear
+glv	Glaive
+tsp	Throwing Spear
+spr	Spear
+tri	Trident
+brn	Brandistock
+spt	Spetum
+pik	Pike
+bar	Bardiche
+vou	Voulge
+scy	Scythe
+pax	Poleaxe
+hal	Halberd
+wsc	War Scythe
+sst	Short Staff
+lst	Long Staff
+cst	Gnarled Staff
+bst	Battle Staff
+wst	War Staff
+sbw	Short Bow
+hbw	Hunter's Bow
+lbw	Long Bow
+cbw	Composite Bow
+sbb	Short Battle Bow
+lbb	Long Battle Bow
+swb	Short War Bow
+lwb	Long War Bow
+lxb	Light Crossbow
+mxb	Crossbow
+hxb	Heavy Crossbow
+rxb	Repeating Crossbow
+xpk	Barbed Shield
+xsh	Grim Shield
+xh9	Grim Helm
+zhb	War Belt
+ztb	Battle Belt
+zmb	Mesh Belt
+zvb	Sharkskin Belt
+zlb	Demonhide Sash
+xhb	War Boots
+xtb	Battle Boots
+xmb	Mesh Boots
+xvb	Sharkskin Boots
+xlb	Demonhide Boots
+xhg	War Gaunlets
+xtg	Battle Gauntlets
+xmg	Heavy Bracers
+xvg	Sharkskin Gloves
+xlg	Demonhide Gloves
+xts	Ancient Shield
+xow	Pavise
+xit	Dragon Shield
+xrg	Scutum
+xml	Round Shield
+xuc	Defender
+xtp	Mage Plate
+xar	Ornate Plate
+xul	Chaos Armor
+xth	Embossed Plate
+xld	Sharktooth Armor
+xlt	Templar Coat
+xpl	Russet Armor
+xrs	Cuirass
+xhn	Mesh Armor
+xcl	Tigulated Mail
+xng	Linked Mail
+xtu	Trellised Armor
+xla	Demonhide Armor
+xea	Serpentskin Armor
+xui	Ghost Armor
+xsk	Death Mask
+xrn	Grand Crown
+xhm	Winged helm
+xhl	Basinet
+xlm	Casque
+xkp	Sallet
+xap	War Hat
+8rx	Chu-Ko-Nu
+8hx	Ballista
+8mx	Siege Crossbow
+8lx	Arbalest
+8lw	Gothic Bow
+8sw	Rune Bow
+8l8	Large Siege Bow
+8s8	Short Siege Bow
+8cb	Double Bow
+8lb	Cedar Bow
+8hb	Razor Bow
+8sb	Edge Bow
+8ws	Rune Staff
+8bs	Gothic Staff
+8cs	Cedar Staff
+8ls	Quarterstaff
+8ss	Jo Staff
+9wc	Grim Scythe
+9h9	Bec-de-Corbin
+9pa	Partizan
+9s8	Battle Scythe
+9vo	Bill
+9b7	Lochaber Axe
+9p9	Lance
+9st	Yari
+9br	War Fork
+9tr	Fuscina
+9sr	War Spear
+9ts	Harpoon
+9gl	Spiculum
+9s9	Simbilan
+9pi	Great Pilum
+9ja	War Javelin
+9b8	Hurlbat
+9bk	War Dart
+9ta	Francisca
+9tk	Battle Dart
+9bl	Stilleto
+9kr	Cinquedeas
+9di	Rondel
+9dg	Poignard
+9gd	Executioner Sword
+9fb	Zweihander
+9gs	Tusk Sword
+9cm	Dacian Falx
+92h	Espandon
+9wd	Ancient Sword
+9ls	Rune Sword
+9bs	Battle Sword
+9cr	Dimensional Blade
+9fc	Tulwar
+9sb	Shamshir
+9sm	Cutlass
+9ss	Gladius
+9gm	Martel de Fer
+9m9	War Club
+9wh	Battle Hammer
+9fl	Knout
+9mt	Jagged Star
+9ma	Flanged Mace
+9sp	Barbed Club
+9ws	Divine Scepter
+9qs	Holy Water Sprinkler
+9sc	Rune Scepter
+9cl	Cudgel
+9gw	Grave Wand
+9bw	Tomb Wand
+9yw	Petrified Wand
+9wn	Burnt Wand
+9gi	Ancient Axe
+9ga	Gothic Axe
+9bt	Tabar
+9ba	Bearded Axe
+9la	Military Axe
+9wa	Naga
+9mp	Crowbill
+92a	Twin Axe
+9ax	Cleaver
+9ha	Hatchet
+9b9	Gothic Sword
+gpl	Strangling Gas Potion
+opl	Fulminating Potion
+gpm	Choking Gas Potion
+opm	Exploding Potion
+gps	Rancid Gas Potion
+ops	Oil Potion
+gidbinn	Gidbinn
+g33	The Gidbinn
+d33	Decoy Gidbinn
+leg	Wirt's Leg
+Malus	Horadric Malus
+hdm	Horadric Malus
+hfh	Hell Forge Hammer
+hst	Horadric Staff
+msf	Shaft of the Horadric Staff
+orifice	orifice
+elx	Elixir
+tbk	Tome of Town Portal
+tsc	Scroll of Town Portal
+ibk	Tome of Identify
+isc	Scroll of Identify
+RightClicktoUse	Right Click to Use
+RightClicktoOpen	Right Click to Open
+RightClicktoRead	Right Click to Read
+InsertScrolls	Insert Scrolls
+vps	Stamina Potion
+yps	Antidote Potion
+rvs	Rejuvenation Potion
+rvl	Full Rejuvenation Potion
+wms	Thawing Potion
+amu	Amulet
+vip	Top of the Horadric Staff
+rin	Ring
+gld	Gold
+bks	Scroll of Inifuss
+bkd	Key to the Cairn Stones
+aqv	Arrows
+tch	Torch
+cqv	Bolts
+Key	Key
+key	Key
+luv	The Black Tower Key
+xyz	Right Click to permanently add 20 to Life}Potion of Life
+shrine	shrine
+teleport pad	Teleport Pad
+j34	A Jade Figurine
+g34	The Golden Bird
+bbb	Lam Esen's Tome
+LamTome	Lam Esen's Tome
+box	Horadric Cube
+tr1	Horadric Scroll
+mss	Mephisto's Soulstone
+ass	Right Click to learn skill of your choice}Book of Skill
+ear	Ear
+gcv	Chipped Amethyst
+gfv	Flawed Amethyst
+gsv	Amethyst
+gzv	Flawless Amethyst
+gpv	Perfect Amethyst
+gcy	Chipped Topaz
+gfy	Flawed Topaz
+gsy	Topaz
+gly	Flawless Topaz
+gpy	Perfect Topaz
+gcb	Chipped Sapphire
+gfb	Flawed Sapphire
+gsb	Sapphire
+glb	Flawless Sapphire
+gpb	Perfect Sapphire
+gcg	Chipped Emerald
+gfg	Flawed Emerald
+glg	Flawless Emerald
+gsg	Emerald
+gpg	Perfect Emerald
+gcr	Chipped Ruby
+gfr	Flawed Ruby
+gsr	Ruby
+glr	Flawless Ruby
+gpr	Perfect Ruby
+gcw	Chipped Diamond
+gfw	Flawed Diamond
+gsw	Diamond
+glw	Flawless Diamond
+gpw	Perfect Diamond
+hp1	Minor Healing Potion
+hp2	Light Healing Potion
+hp3	Healing Potion
+hp4	Greater Healing Potion
+hp5	Super Healing Potion
+mp1	Minor Mana Potion
+mp2	Light Mana Potion
+mp3	Mana Potion
+mp4	Greater Mana Potion
+mp5	Super Mana Potion
+hrb	Herb
+skc	Chipped Skull
+skf	Flawed Skull
+sku	Skull
+skl	Flawless Skull
+skz	Perfect Skull
+Beast	Beast
+Eagle	Eagle
+Raven	Raven
+Viper	Viper
+GhoulRI	Ghoul
+Skull	Skull
+Blood	Blood
+Dread	Dread
+Doom	Doom
+Grim	Grim
+Bone	Bone
+Death	Death
+Shadow	Shadow
+Storm	Storm
+Rune	Rune
+PlagueRI	Plague
+Stone	Stone
+Wraith	Wraith
+Spirit	Spirit
+Demon	Demon
+Cruel	Cruel
+Empyrion	Empyrian
+Bramble	Bramble
+Pain	Pain
+Loath	Loath
+Glyph	Glyph
+Imp	Imp
+Fiend	Fiend
+Hailstone	Hailstone
+Gale	Gale
+Dire	Dire
+Soul	Soul
+Brimstone	Brimstone
+Corpse	Corpse
+Carrion	Carrion
+Holocaust	Armageddon
+Havoc	Havoc
+Bitter	Bitter
+Entropy	Entropy
+Chaos	Chaos
+Order	Order
+Rift	Rift
+Corruption	Corruption
+bite	Bite
+scratch	Scratch
+scalpel	Scalpel
+fang	Fang
+gutter	Gutter
+thirst	Thirst
+razor	Razor
+scythe	Scythe
+edge	Edge
+saw	Saw
+splitter	Splitter
+cleaver	Cleaver
+sever	Sever
+sunder	Sunder
+rend	Rend
+mangler	Mangler
+slayer	Slayer
+reaver	Reaver
+Spawn	Spawn
+gnash	Gnash
+star	Star
+blow	Blow
+smasher	Smasher
+Bane	Bane
+crusher	Crusher
+breaker	Breaker
+grinder	Grinder
+crack	Crack
+mallet	Mallet
+knell	Knell
+lance	Lance
+spike	Spike
+impaler	Impaler
+skewer	Skewer
+prod	Prod
+scourge	Scourge
+wand	Wand
+wrack	Wrack
+barb	Barb
+needle	Needle
+dart	Dart
+bolt	Bolt
+quarrel	Quarrel
+fletch	Fletch
+flight	Flight
+nock	Nock
+horn	Horn
+stinger	Stinger
+quill	Quill
+goad	Goad
+branch	Branch
+spire	Spire
+song	Song
+call	Call
+cry	Cry
+spell	Spell
+chant	Chant
+weaver	Weaver
+gnarl	Gnarl
+visage	Visage
+crest	Crest
+circlet	Circlet
+veil	Veil
+hood	Hood
+mask	Mask
+brow	Brow
+casque	Casque
+visor	Visor
+cowl	Cowl
+hide	Hide
+Pelt	Pelt
+carapace	Carapace
+coat	Coat
+wrap	Wrap
+suit	Suit
+cloak	Cloak
+shroud	Shroud
+jack	Jack
+mantle	Mantle
+guard	Guard
+badge	Badge
+rock	Rock
+aegis	Aegis
+ward	Ward
+tower	Tower
+shield	Shield
+wing	Wing
+mark	Mark
+emblem	Emblem
+hand	Hand
+fist	Fist
+claw	Claw
+clutches	Clutches
+grip	Grip
+grasp	Grasp
+hold	Hold
+touch	Touch
+finger	Finger
+knuckle	Knuckle
+shank	Shank
+spur	Spur
+tread	Tread
+stalker	Stalker
+greave	Greaves
+blazer	Blazer
+nails	Nails
+trample	Trample
+Brogues	Brogues
+track	Track
+slippers	Slippers
+clasp	Clasp
+buckle	Buckle
+harness	Harness
+lock	Lock
+fringe	Fringe
+winding	Winding
+chain	Chain
+strap	Strap
+lash	Lash
+cord	Cord
+knot	Knot
+circle	Circle
+loop	Loop
+eye	Eye
+turn	Turn
+spiral	Spiral
+coil	Coil
+gyre	Gyre
+band	Band
+whorl	Whorl
+talisman	Talisman
+heart	Heart
+noose	Noose
+necklace	Necklace
+collar	Collar
+beads	Beads
+torc	Torc
+gorget	Gorget
+scarab	Scarab
+wood	Wood
+brand	Brand
+bludgeon	Bludgeon
+cudgel	Cudgel
+loom	Loom
+harp	Harp
+master	Master
+barRI	Bar
+hew	Hew
+crook	Crook
+mar	Mar
+shell	Shell
+stake	Stake
+picket	Picket
+pale	Pale
+flange	Flange
+Civerb's Vestments	Civerb's Vestments
+Hsarus' Trim	Hsaru's Defense
+Cleglaw's Brace	Cleglaw's Brace
+Iratha's Finery	Iratha's Finery
+Isenhart's Armory	Isenhart's Armory
+Vidala's Rig	Vidala's Rig
+Milabrega's Regalia	Milabrega's Regalia
+Cathan's Traps	Cathan's Traps
+Tancred's Battlegear	Tancred's Battlegear
+Sigon's Complete Steel	Sigon's Complete Steel
+Infernal Tools	Infernal Tools
+Berserker's Garb	Berserker's Arsenal
+Death's Disguise	Death's Disguise
+Angelical Raiment	Angelic Raiment
+Arctic Gear	Arctic Gear
+Arcanna's Tricks	Arcanna's Tricks
+Civerb's	Civerb's
+Hsarus'	Hsaru's
+Cleglaw's	Cleglaw's
+Iratha's	Iratha's
+Isenhart's	Isenhart's
+Vidala's	Vidala's
+Milabrega's	Milabrega's
+Cathan's	Cathan's
+Tancred's	Tancred's
+Sigon's	Sigon's
+Infernal	Infernal
+Berserker's	Berserker's
+Death's	Death's
+Angelical	Angelic
+Arctic	Arctic
+Arcanna's	Arcanna's
+Ward	Ward
+Iron Heel	Iron Heel
+Tooth	Tooth
+Collar	Collar
+Lightbrand	Lightbrand
+Barb	Barb
+Orb	Orb
+Rule	Rule
+Crowbill	Crowbill
+Visor	Visor
+Cranium	Cranium
+Headgear	Headgear
+Hand	Hand
+Sickle	Sickle
+Horn	Horn
+Sign	Sign
+Icon	Icon
+Iron Fist	Iron Fist
+Claw	Claw
+Cuff	Cuff
+Parry	Parry
+Fetlock	Fetlock
+Rod	Rod
+Mesh	Mesh
+Spine	Spine
+Shelter	Shelter
+Torch	Torch
+Hauberk	Hauberk
+Guard	Guard
+Mantle	Mantle
+Furs	Furs
+Deathwand	Deathwand
+CudgelSI3S	Cudgel
+Iron Stay	Iron Stay
+Pincers	Pincers
+Coil	Coil
+Case	Case
+Ambush	Ambush
+Diadem	Diadem
+Visage	Visage
+Hobnails	Hobnails
+Gage	Gage
+SignSI3S	Buckle
+Hatchet	Hatchet
+Touch	Touch
+Halo	Halo
+Binding	Binding
+Head	Head
+Horns	Horns
+Snare	Snare
+Robe	Robe
+Sigil	Sigil
+Weird	Weird
+Sabot	Sabot
+Wings	Wings
+Mitts	Mitts
+Flesh	Flesh
+Cord	Cord
+Seal	Seal
+SkullSI5S	Skull
+Wrap	Wrap
+GuardSI6S	Guard
+The Gnasher	The Gnasher
+Deathspade	Deathspade
+Bladebone	Bladebone
+Mindrend	Skull Splitter
+Rakescar	Rakescar
+Fechmars Axe	Axe of Fechmar
+Goreshovel	Goreshovel
+The Chieftan	The Chieftain
+Brainhew	Brainhew
+The Humongous	Humongous
+Iros Torch	Torch of Iro
+Maelstromwrath	Maelstrom
+Gravenspine	Gravenspine
+Umes Lament	Ume's Lament
+Felloak	Felloak
+Knell Striker	Knell Striker
+Rusthandle	Rusthandle
+Stormeye	Stormeye
+Stoutnail	Stoutnail
+Crushflange	Crushflange
+Bloodrise	Bloodrise
+The Generals Tan Do Li Ga	The General's Tan Do Li Ga
+Ironstone	Ironstone
+Bonesob	Bonesnap
+Steeldriver	Steeldriver
+Rixots Keen	Rixot's Keen
+Blood Crescent	Blood Crescent
+Krintizs Skewer	Skewer of Krintiz
+Gleamscythe	Gleamscythe
+Azurewrath	Azurewrath
+Griswolds Edge	Griswold's Edge
+Hellplague	Hellplague
+Culwens Point	Culwen's Point
+Shadowfang	Shadowfang
+Soulflay	Soulflay
+Kinemils Awl	Kinemil's Awl
+Blacktongue	Blacktongue
+Ripsaw	Ripsaw
+The Patriarch	The Patriarch
+Gull	Gull
+The Diggler	The Diggler
+The Jade Tan Do	The Jade Tan Do
+Irices Shard	Spectral Shard
+The Dragon Chang	The Dragon Chang
+Razortine	Razortine
+Bloodthief	Bloodthief
+Lance of Yaggai	Lance of Yaggai
+The Tannr Gorerod	The Tannr Gorerod
+Dimoaks Hew	Dimoak's Hew
+Steelgoad	Steelgoad
+Soul Harvest	Soul Harvest
+The Battlebranch	The Battlebranch
+Woestave	Woestave
+The Grim Reaper	The Grim Reaper
+Bane Ash	Bane Ash
+Serpent Lord	Serpent Lord
+Lazarus Spire	Spire of Lazarus
+The Salamander	The Salamander
+The Iron Jang Bong	The Iron Jang Bong
+Pluckeye	Pluckeye
+Witherstring	Witherstring
+Rimeraven	Raven Claw
+Piercerib	Rogue's Bow
+Pullspite	Stormstrike
+Wizendraw	Wizendraw
+Hellclap	Hellclap
+Blastbark	Blastbark
+Leadcrow	Leadcrow
+Ichorsting	Ichorsting
+Hellcast	Hellcast
+Doomspittle	Doomslinger
+War Bonnet	Biggin's Bonnet
+Tarnhelm	Tarnhelm
+Coif of Glory	Coif of Glory
+Duskdeep	Duskdeep
+Wormskull	Wormskull
+Howltusk	Howltusk
+Undead Crown	Undead Crown
+The Face of Horror	The Face of Horror
+Greyform	Greyform
+Blinkbats Form	Blinkbat's Form
+The Centurion	The Centurion
+Twitchthroe	Twitchthroe
+Darkglow	Darkglow
+Hawkmail	Hawkmail
+Sparking Mail	Sparking Mail
+Venomsward	Venom Ward
+Iceblink	Iceblink
+Boneflesh	Boneflesh
+Rockfleece	Rockfleece
+Rattlecage	Rattlecage
+Goldskin	Goldskin
+Victors Silk	Silks of the Victor
+Heavenly Garb	Heavenly Garb
+Pelta Lunata	Pelta Lunata
+Umbral Disk	Umbral Disk
+Stormguild	Stormguild
+Wall of the Eyeless	Wall of the Eyeless
+Swordback Hold	Swordback Hold
+Steelclash	Steelclash
+Bverrit Keep	Bverrit Keep
+The Ward	The Ward
+The Hand of Broc	The Hand of Broc
+Bloodfist	Bloodfist
+Chance Guards	Chance Guards
+Magefist	Magefist
+Frostburn	Frostburn
+Hotspur	Hotspur
+Gorefoot	Gorefoot
+Treads of Cthon	Treads of Cthon
+Goblin Toe	Goblin Toe
+Tearhaunch	Tearhaunch
+Lenyms Cord	Lenymo
+Snakecord	Snakecord
+Nightsmoke	Nightsmoke
+Goldwrap	Goldwrap
+Bladebuckle	Bladebuckle
+Nokozan Relic	Nokozan Relic
+The Eye of Etlich	The Eye of Etlich
+The Mahim-Oak Curio	The Mahim-Oak Curio
+Nagelring	Nagelring
+Manald Heal	Manald Heal
+Gorgethroat	Gorgethroat
+Amulet of the Viper	Amulet of the Viper
+Staff of Kings	Staff of Kings
+Horadric Staff	Horadric Staff
+Hell Forge Hammer	Hell Forge Hammer
+The Stone of Jordan	The Stone of Jordan
+GloomUM	Gloom
+Gray	Gray
+DireUM	Dire
+Black	Black
+ShadowUM	Shadow
+Haze	Haze
+Wind	Wind
+StormUM	Storm
+Warp	Warp
+Night	Night
+Moon	Moon
+Star	Star
+Pit	Pit
+Fire	Flame
+Cold	Ice
+Seethe	Seethe
+SharpUM	Sharp
+AshUM	Ash
+Blade	Blade
+SteelUM	Steel
+StoneUM	Stone
+Rust	Rust
+Mold	Mold
+Blight	Blight
+Plague	Plague
+Rot	Rot
+Ooze	Ooze
+Puke	Puke
+Snot	Snot
+Bile	Bile
+BloodUM	Blood
+Pulse	Pulse
+Gut	Gut
+Gore	Gore
+FleshUM	Flesh
+BoneUM	Bone
+SpineUM	Spine
+Mind	Mind
+SpiritUM	Spirit
+SoulUM	Soul
+Wrath	Wrath
+GriefUM	Grief
+Foul	Foul
+Vile	Vile
+Sin	Sin
+ChaosUM	Chaos
+DreadUM	Dread
+DoomUM	Doom
+BaneUM	Bane
+DeathUM	Death
+ViperUM	Viper
+Dragon	Dragon
+Devil	Devil
+touchUM	Touch
+spellUM	Spell
+feast	Feast
+wound	Wound
+grin	Grin
+maim	Maim
+hack	Hack
+biteUM	Bite
+rendUM	Rend
+burn	Burn
+rip	Ripper
+kill	Kill
+callUM	Call
+vex	Vex
+jade	Jade
+web	Web
+shieldUM	Shield
+KillerUM	Killer
+RazorUM	Razor
+drinker	Drinker
+shifter	Shifter
+crawler	Crawler
+dancer	Dancer
+bender	Bender
+weaverUM	Weaver
+eater	Eater
+widow	Widow
+maggot	Maggot
+spawn	Spawn
+wight	Wight
+GrumbleUM	Grumble
+GrowlerUM	Growler
+SnarlUM	Snarl
+wolf	Wolf
+crow	Crow
+raven	Raven
+hawk	Hawk
+cloud	Cloud
+BangUM	Bang
+head	Head
+skullUM	Skull
+browUM	Brow
+eyeUM	Eye
+maw	Maw
+tongue	Tongue
+fangUM	Fang
+hornUM	Horn
+thorn	Thorn
+clawUM	Claw
+fistUM	Fist
+heartUM	Heart
+shankUM	Shank
+skinUM	Skin
+wingUM	Wing
+pox	Pox
+fester	Fester
+blister	Blister
+pus	Pus
+SlimeUM	Slime
+drool	Drool
+froth	Froth
+sludge	Sludge
+venom	Venom
+poison	Poison
+break	Break
+shard	Shard
+flame	Flame
+maul	Maul
+thirstUM	Thirst
+lust	Lust
+the Hammer	the Hammer
+the Axe	the Axe
+the Sharp	the Sharp
+the Jagged	the Jagged
+the Flayer	the Flayer
+the Slasher	the Slasher
+the Impaler	the Impaler
+the Hunter	the Hunter
+the Slayer	the Slayer
+the Mauler	the Mauler
+the Destroyer	the Destroyer
+theQuick	the Quick
+the Witch	the Witch
+the Mad	the Mad
+the Wraith	the Wraith
+the Shade	the Shade
+the Dead	the Dead
+the Unholy	the Unholy
+the Howler	the Howler
+the Grim	the Grim
+the Dark	the Dark
+the Tainted	the Tainted
+the Unclean	the Unclean
+the Hungry	the Hungry
+the Cold	the Cold
+The Cow King	The Cow King
+Grand Vizier of Chaos	Grand Vizier of Chaos
+Lord De Seis	Lord De Seis
+Infector of Souls	Infector of Souls
+Riftwraith the Cannibal	Riftwraith the Cannibal
+Taintbreeder	Taintbreeder
+The Tormentor	The Tormentor
+Winged Death	Darkwing
+Maffer Dragonhand	Maffer Dragonhand
+Wyand Voidfinger	Wyand Voidbringer
+Toorc Icefist	Toorc Icefist
+Bremm Sparkfist	Bremm Sparkfist
+Geleb Flamefinger	Geleb Flamefinger
+Ismail Vilehand	Ismail Vilehand
+Icehawk Riftwing	Icehawk Riftwing
+Sarina the Battlemaid	Battlemaid Sarina
+Stormtree	Stormtree
+Witch Doctor Endugu	Witch Doctor Endugu
+Web Mage the Burning	Sszark the Burning
+Bishibosh	Bishibosh
+Bonebreak	Bonebreaker
+Coldcrow	Coldcrow
+Rakanishu	Rakanishu
+Treehead WoodFist	Treehead WoodFist
+Griswold	Griswold
+The Countess	The Countess
+Pitspawn Fouldog	Pitspawn Fouldog
+Flamespike the Crawler	Flamespike the Crawler
+Boneash	Bone Ash
+Radament	Radament
+Bloodwitch the Wild	Bloodwitch the Wild
+Fangskin	Fangskin
+Beetleburst	Beetleburst
+Leatherarm	Creeping Feature
+Coldworm the Burrower	Coldworm the Burrower
+Fire Eye	Fire Eye
+Dark Elder	Dark Elder
+The Summoner	The Summoner
+Ancient Kaa the Soulless	Ancient Kaa the Soulless
+The Smith	The Smith
+DeckardCain	Deckard Cain
+Gheed	Gheed
+Akara	Akara
+Kashya	Kashya
+Charsi	Charsi
+Wariv	Warriv
+Warriv	Warriv
+Rogue	Rogue
+StygianDoll	Stygian Doll
+SoulKiller	Soul Killer
+Flayer	Flayer
+Fetish	Fetish
+RatMan	Rat Man
+Undead StygianDoll	Undead Stygian Doll
+Undead SoulKiller	Undead Soul Killer
+Undead Flayer	Undead Flayer
+Undead Fetish	Undead Fetish
+Undead RatMan	Undead Rat Man
+DarkFamiliar	Dark Familiar
+BloodDiver	Blood Diver
+Gloombat	Gloombat
+DesertWing	Desert Wing
+Banished	The Banished
+BloodLord	Blood Lord
+DarkLord	Dark Lord
+NightLord	Night Lord
+GhoulLord	Ghoul Lord
+Spikefist	Spikefist
+Thrasher	Thrasher
+BrambleHulk	Bramble Hulk
+ThornedHulk	Thorned Hulk
+SpiderMagus	Spider Magus
+FlameSpider	Flame Spider
+PoisonSpinner	Poison Spinner
+SandFisher	Sand Fisher
+Arach	Arach
+BloodWing	Blood Wing
+BloodHook	Blood Hook
+Feeder	Feeder
+Sucker	Sucker
+WingedNightmare	Winged Nightmare
+HellBuzzard	Hell Buzzard
+UndeadScavenger	Undead Scavenger
+CarrionBird	Carrion Bird
+Unraveler	Unraveler
+Guardian	Guardian
+HollowOne	Hollow One
+Horadrim Ancient	Horadrim Ancient
+AlbinoRoach	Bone Scarab
+SteelWeevil	Steel Scarab
+Scarab	Scarab
+SandWarrior	Death Beetle
+DungSoldier	Dung Soldier
+HellSwarm	Hell Swarm
+PlagueBugs	Plague Bugs
+BlackLocusts	Black Locusts
+Itchies	Itchies
+HellCat	Hell Cat
+NightTiger	Night Tiger
+SaberCat	Saber Cat
+Huntress	Huntress
+RazorPitDemon	Cliff Lurker
+TreeLurker	Tree Lurker
+CaveLeaper	Cave Leaper
+TombCreeper	Tomb Creeper
+SandLeaper	Sand Leaper
+TombViper	Tomb Viper
+PitViper	Pit Viper
+Salamander	Salamander
+ClawViper	Claw Viper
+SerpentMagus	Serpent Magus
+WorldKiller	Blood Maggot
+GiantLamprey	Giant Lamprey
+Devourer	Devourer
+RockWorm	Rock Worm
+SandMaggot	Sand Maggot
+JungleUrchin	Bush Barb
+RazorSpine	Razor Spine
+ThornBeast	Thorn Beast
+SpikeFiend	Spike Fiend
+QuillRat	Quill Rat
+HellClan	Hell Clan
+MoonClan	Moon Clan
+NightClan	Night Clan
+DeathClan	Death Clan
+BloodClan	Blood Clan
+TempleGuard	Temple Guard
+DoomApe	Doom Ape
+JungleHunter	Jungle Hunter
+RockDweller	Rock Dweller
+DuneBeast	Dune Beast
+FleshHunter	Flesh Hunter
+BlackRogue	Black Rogue
+DarkStalker	Dark Stalker
+VileHunter	Vile Hunter
+DarkHunter	Dark Hunter
+DarkShape	Dark Shape
+Apparition	Apparition
+Specter	Specter
+Wraith	Wraith
+Ghost	Ghost
+Assailant	Assailant
+Infidel	Infidel
+Invader	Invader
+Marauder	Marauder
+SandRaider	Sand Raider
+GargantuanBeast	Gargantuan Beast
+WailingBeast	Wailing Beast
+Yeti	Yeti
+Crusher	Crusher
+Brute	Brute
+CloudStalker	Cloud Stalker
+BlackVulture	Black Vulture
+BlackRaptor	Black Raptor
+BloodHawk	Blood Hawk
+FoulCrow	Foul Crow
+PlagueBearer	Plague Bearer
+Ghoul	Ghoul
+DrownedCarcass	Drowned Carcass
+HungryDead	Hungry Dead
+Zombie	Zombie
+Skeleton	Skeleton
+Horror	Horror
+Returned	Returned
+BurningDead	Burning Dead
+BoneWarrior	Bone Warrior
+Damned	Damned
+Disfigured	Disfigured
+Misshapen	Misshapen
+Tainted	Tainted
+Afflicted	Afflicted
+Andariel	Andariel
+Natalya	Natalya
+Drognan	Drognan
+Atma	Atma
+Fara	Fara
+Lysander	Lysander
+Jerhyn	Jerhyn
+jerhyn	Jerhyn
+Geglash	Geglash
+Elzix	Elzix
+Greiz	Greiz
+Meshif	Meshif
+Camel	Camel
+Cadaver	Cadaver
+PreservedDead	Preserved Dead
+Embalmed	Embalmed
+DriedCorpse	Dried Corpse
+Decayed	Decayed
+Urdar	Urdar
+Mauler	Mauler
+Gorbelly	Gorebelly
+Blunderbore	Blunderbore
+WorldKillerYoung	Blood Maggot Young
+GiantLampreyYoung	Giant Lamprey Young
+DevourerYoung	Devourer Young
+RockWormYoung	Rock Worm Young
+SandMaggotYoung	Sand Maggot Young
+WorldKillerEgg	Blood Maggot Egg
+GiantLampreyEgg	Giant Lamprey Egg
+DevourerEgg	Devourer Egg
+RockWormEgg	Rock Worm Egg
+SandMaggotEgg	Sand Maggot Egg
+Maggot	Maggot
+Duriel	Duriel
+BloodHawkNest	Blood Hawk Nest
+FlyingScimitar	Flying Scimitar
+CloudStalkerNest	Cloud Stalker Nest
+BlackVultureNest	Black Raptor Nest
+FoulCrowNest	Foul Crow Nest
+Diablo	Diablo
+Baal	Baal
+Mephisto	Mephisto
+Cantor	Cantor
+Heirophant	Heirophant
+Sexton	Sexton
+Zealot	Zealot
+Faithful	Faithful
+Zakarumite	Zakarumite
+BlackSoul	Black Soul
+BurningSoul	Burning Soul
+SwampGhost	Swamp Ghost
+Gloam	Gloam
+WarpedShaman	Warped Shaman
+DarkShaman	Dark Shaman
+DevilkinShaman	Devilkin Shaman
+CarverShaman	Carver Shaman
+FallenShaman	Fallen Shaman
+WarpedFallen	Warped One
+DarkOne	Dark One
+Devilkin	Devilkin
+Carver	Carver
+Fallen	Fallen
+ReturnedArcher	Returned Archer
+HorrorArcher	Horror Archer
+BurningDeadArcher	Burning Dead Archer
+BoneArcher	Bone Archer
+CorpseArcher	Corpse Archer
+SkeletonArcher	Skeleton Archer
+FleshLancer	Flesh Lancer
+BlackLancer	Black Lancer
+DarkLancer	Dark Lancer
+VileLancer	Vile Lancer
+DarkSpearwoman	Dark Spearwoman
+FleshArcher	Flesh Archer
+BlackArcher	Black Archer
+DarkRanger	Dark Ranger
+VileArcher	Vile Archer
+DarkArcher	Dark Archer
+Summoner	The Summoner
+StygianDollShaman	Stygian Doll Shaman
+SoulKillerShaman	Soul Killer Shaman
+FlayerShaman	Flayer Shaman
+FetishShaman	Fetish Shaman
+RatManShaman	RatMan Shaman
+HorrorMage	Horror Mage
+BurningDeadMage	Burning Dead Mage
+BoneMage	Bone Mage
+CorpseMage	Corpse Mage
+ReturnedMage	Returned Mage
+GargoyleTrap	Gargoyle Trap
+Bloodraven	Blood Raven
+navi	Flavie
+Kaelan	Kaelan
+meshif	Meshif
+StygianWatcherHead	Stygian Watcher
+RiverStalkerHead	River Stalker
+WaterWatcherHead	Water Watcher
+StygianWatcherLimb	Stygian Watcher
+RiverStalkerLimb	River Stalker
+WaterWatcherLimb	Water Watcher
+NightMarauder	Night Marauder
+FireGolem	Fire Golem
+IronGolem	Iron Golem
+BloodGolem	Blood Golem
+ClayGolem	Clay Golem
+WorldKillerQueen	Blood Maggot Queen
+GiantLampreyQueen	Giant Lamprey Queen
+DevourerQueen	Devourer Queen
+RockWormQueen	Rock Worm Queen
+SandMaggotQueen	Sand Maggot Queen
+Slime Prince	Slime Prince
+Bog Creature	Bog Creature
+Swamp Dweller	Swamp Dweller
+GiantUrchin	Barbed Giant
+RazorBeast	Razor Beast
+ThornBrute	Thorn Brute
+SpikeGiant	Spike Giant
+QuillBear	Quill Bear
+Council Member	Council Member
+youngdiablo	Dark Wanderer
+darkwanderer	Dark Wanderer
+HellSlinger	Hell Slinger
+NightSlinger	Night Slinger
+SpearCat	Spear Cat
+Slinger	Slinger
+FireTower	Fire Tower
+LightningSpire	Lightning Spire
+PitLord	Pit Lord
+Balrog	Balrog
+VenomLord	Venom Lord
+Iron Wolf	Iron Wolf
+InvisoSpawner	Inviso Spawner
+OblivionKnight	Oblivion Knight
+Mage	Mage
+AbyssKnight	Abyss Knight
+Fighter Mage	Fighter Mage
+DoomKnight	Doom Knight
+Fighter	Fighter
+MawFiend	Maw Fiend
+CorpseSpitter	Corpse Spitter
+Corpulent	Corpulent
+StormCaster	Storm Caster
+Strangler	Strangler
+Groper	Doom Caster
+GrotesqueWyrm	Grotesque Wyrm
+StygianDog	Stygian Dog
+FleshBeast	Flesh Beast
+Grotesque	Grotesque
+StygianHag	Stygian Hag
+FleshSpawner	Flesh Spawner
+RogueScout	Rogue Scout
+BloodWingNest	Blood Wing Nest
+BloodHookNest	Blood Hook Nest
+FeederNest	Feeder Nest
+SuckerNest	Sucker Nest
+NecroMage	Necromage
+NecroSkeleton	Necroskeleton
+TrappedSoul	Trapped Soul
+Valkyrie	Valkyrie
+Dopplezon	Decoy
+Raises Fetishes	Raises Fetishes
+Raises Undead	Raises Undead
+Lays Eggs	Lays Eggs
+Raises Fallen	Raises Fallen
+heals Zealots and Cantors	Heals Others
+drains mana and stamina	Drains Mana and Stamina
+drains mana	Drains Mana
+drains stamina	Drains Stamina
+stun attack	Stun Attack
+eats and spits corspes	Eats and Spits Corspes
+homing missiles	Homing Missiles Drain Mana
+raises Stygian Dolls	Raises Stygian Dolls
+raises Soul Killers	Raises Soul Killers
+raises Flayers	Raises Flayers
+raises Fetishes	Raises Fetishes
+raises Ratmen	Raises Ratmen
+steals life	Steals Life
+raises undead	Raises Undead
+raises Dark Ones	Raises Dark Ones
+raises Devilkin	Raises Devilkin
+raises Carvers	Raises Carvers
+raises Fallen	Raises Fallen
+raises Warped Fallen	Raises The Warped
+shocking hit	shocking hit
+uniquextrastrong	Extra Strong
+uniqueextrafast	Extra Fast
+uniquecursed	Cursed
+uniquemagicresistance	Magic Resistant
+uniquefireenchanted	Fire Enchanted
+monsteruniqueprop1	Cold Enchanted
+monsteruniqueprop2	Lightning Enchanted
+monsteruniqueprop3	Mana Burn
+monsteruniqueprop4	Spectral Hit
+monsteruniqueprop5	Teleportation
+monsteruniqueprop6	Stone Skin
+monsteruniqueprop7	Multiple Shots
+monsteruniqueprop8	Thief
+monsteruniqueprop9	Aura Enchanted
+This Cow Bites	This Cow Bites
+Champion	Champion
+minion	Minion
+Barrel	Barrel
+Lever1	Lever
+BarrelEx	an Exploding Barrel
+Door	Closed Door
+Portal	Portal to
+ODoor	Open Door
+BlockedDoor	Blocked Door
+LockedDoor	Locked Door
+StoneAlpha	Cairn Stone
+StoneBeta	Cairn Stone
+StoneDelta	Cairn Stone
+StoneGamma	Cairn Stone
+StoneLambda	Cairn Stone
+StoneTheta	Cairn Stone
+Crate	Crate
+Casket	Casket
+Cabinet	Cabinet
+Vase	Vase
+Inifuss	Tree of Inifuss
+corpse	Corpse
+RogueCorpse	Dead Rogue
+CorpseOnStick	Dead Rogue
+TowerTome	The Moldy Tome
+Gibbet	Cain's Gibbet
+MummyGenerator	Mummy Sarcophagus
+ArmorStand	Armor Stand
+WeaponRack	Weapon Rack
+Sarcophagus	Sarcophagus
+Trap Door	Trap Door
+LargeUrn	Large Urn
+CanopicJar	Canopic Jar
+Obelisk	Obelisk
+HoleAnim	Undefiled Grave
+Shrine	Shrine
+Urn	Urn
+Waypoint	Waypoint
+Well	Well
+bag	Bag
+Chest	Chest
+chest	Chest
+lockedchest	Locked Chest
+HorazonsJournal	Horazon's Journal
+templeshrine	shrine
+stair	Stair
+coffin	Coffin
+bookshelf	Bookshelf
+loose boulder	Loose Boulder
+loose rock	Loose Rock
+hollow log	Hollow Log
+hiding spot	Hiding Spot
+fire	Fire
+Chest3	Chest
+hidden stash	Hidden Stash
+GuardCorpse	Guard Corpse
+bowl	Bowl
+jug	Jug
+AmbientSound	Ambient Sound
+ratnest	Rat's Nest
+burning body	Burning Body
+well	Well
+door	Door
+skeleton	Skeleton
+skullpile	Skullpile
+cocoon	Cocoon
+gidbinn altar	Gidbinn Altar
+cowa	Cow
+manashrine	Shrine
+bed	Bed
+ratchest	Chest
+blister	Blister
+bank	Your Private Stash
+goo pile	Goo Pile
+holyshrine	Holyshrine
+teleportation pad	Teleport Pad
+ratchest-r	Ratchest
+skull pile	Skull Pile
+body	Body
+hell bridge	Hell Bridge
+compellingorb	Compelling Orb
+basket	Basket
+Basket	Basket
+RockPIle	Rock Pile
+Tome	Horazon's Journal
+dead body	Dead Body
+eunuch	Eunuch
+dead guard	Dead Guard
+portal	Portal
+sarcophagus	Sarcophagus
+dead villager	Dead Villager
+sewer lever	Sewer Lever
+sewer stairs	Sewer Stairs
+magic shrine	Magic Shrine
+wirt's body	Wirt's body
+stash	Stash
+guyq	Suffering Soul
+taintedsunaltar	Tainted Sun Altar
+Hellforge	Hellforge
+Corpsefire	Corpsefire
+fissure	fissure
+BoneChest	Bone Chest
+casket	Casket
+HungSkeleton	Hung Skeleton
+pillar	Pillar
+Hydra	Hydra
+Turret	a Turret
+a trap	a Trap
+fire	Fire
+cost	Cost:
+Repair	Repair cost:
+Sell	Sell value:
+Identify	Identify cost:
+priceless	Item cannot be traded here.
+NPCMenuTradeRepair	trade/repair
+NPCPurchaseItems	Buy
+NPCSellItems	Sell
+NPCHeal	Heal :
+NPCRepairItems	Repair
+NPCNextPage	Next Page
+NPCPreviousPage	Previous Page
+strUiMenu2	Transmute
+TransactionMenu1a	     Your Gold:
+TransactionMenu1f	Which item should be imbued?
+VerifyTransaction1	Yes
+VerifyTransaction2	No
+VerifyTransaction3	Gold:
+VerifyTransaction4	Sell
+VerifyTransaction5	Buy
+VerifyTransaction6	Hire
+VerifyTransaction7	Identify
+VerifyTransaction8	Repair
+VerifyTransaction9	This Mercenary will replace your current one.
+TransactionResults1	Waiting for confirmation of transaction...
+TransactionResults2	Sync error on transaction, please try again.
+TransactionResults3	Invalid item detected, player will be dropped.
+TransactionResults4	You do not have enough free space to do that.
+TransactionResults5	You already have the maximum number of Mercenaries.
+TransactionResults6	That item has just been traded.
+TransactionResults7	You do not have enough room for the gold.
+TransactionResults8	Something tells me that you do not have that item.
+TransactionResults9	I cannot complete that request.
+TransactionResults10	You do not have enough gold for that.
+TransactionResults11	She cannot come right now.  Try again later.
+ItemDesc1s	Your Gold: 123     Hire which Mercenary?
+ItemDesc1t	There are no Mercenaries left to hire.
+HP	Life
+AC	Def
+Level	Lvl
+Cost	Cost
+Damage	Damage
+strhirespecial1	Fire Arrow
+strhirespecial2	Cold Arrow
+strhirespecial3	Jab Attack
+strhirespecial4	Poison Resistant
+strhirespecial5	Lightning
+strhirespecial6	Cold
+strhirespecial7	Fire
+strhirespecial8	Lightning, Fast Cast
+strhirespecial9	Cold, Fast Cast
+strhirespecial10	Fire, Fast Cast
+TalkMenu	talk
+WarrivMenu1b	go east
+WarrivMenu1c	go west
+MeshifMenuEast	sail east
+MeshifMenuWest	sail west
+NPCMenuNews0	important news
+NPCMenuNews1	urgent news
+NPCMenuNews2	pressing matters
+NPCMenuNews3	important news
+NPCMenuNews4	urgent matters
+NPCMenuTalkMore	tell me more
+NPCTownMore0	about the merchants
+NPCTownMore1	the townspeople
+NPCMenuLeave	leave
+NPCGossipMenu	gossip
+NPCMenuTrade	trade
+NPCMenuHire	hire
+gamble	gamble
+Intro	introduction
+Back	cancel
+ok	ok
+cancel	CANCEL
+Continue	Continue
+strMenuMain15	_
+strOptMusic	Music
+strOptSound	Sound
+strOptGamma	Gamma
+strOptRender	Render
+strOptPrevious	Previous Menu
+cfgCtrl	Configure Controls
+merc01	Aliza
+merc02	Amplisa
+merc03	Annor
+merc04	Abhaya
+merc05	Elly
+merc06	Paige
+merc07	Basanti
+merc08	Blaise
+merc09	Kyoko
+merc10	Klaudia
+merc11	Kundri
+merc12	Kyle
+merc13	Visala
+merc14	Elexa
+merc15	Floria
+merc16	Fiona
+merc17	Gwinni
+merc18	Gaile
+merc19	Hannah
+merc20	Heather
+merc21	Iantha
+merc22	Diane
+merc23	Isolde
+merc24	Divo
+merc25	Ithera
+merc26	Itonya
+merc27	Liene
+merc28	Maeko
+merc29	Mahala
+merc30	Liaza
+merc31	Meghan
+merc32	Olena
+merc33	Oriana
+merc34	Ryann
+merc35	Rozene
+merc36	Raissa
+merc37	Sharyn
+merc38	Shikha
+merc39	Debi
+merc40	Tylena
+merc41	Wendy
+merclevelup	I feel much stronger now
+Socketable	Socketed
+ItemStats1a	Requirements not met
+ItemStats1b	Unidentified
+ItemStats1c	Charges:
+ItemStats1d	Durability:
+ItemStats1e	Required Strength:
+ItemStats1f	Required Dexterity:
+ItemStats1g	Damage:
+ItemStats1h	Defense:
+ItemStats1i	Quantity:
+ItemStats1j	of
+ItemStast1k	to
+ItemStats1l	One-Hand Damage:
+ItemStats1m	Two-Hand Damage:
+ItemStats1n	Throw Damage:
+ItemStats1o	Smite Damage:
+ItemStats1p	Required Level:
+ItemStats1q	Points:
+ItemStatsrejuv1	Heals 35% Life and Mana
+ItemStatsrejuv2	Heals 100% Life and Mana
+ModStr1a	to Strength
+ModStr1b	to Dexterity
+ModStr1c	to Vitality
+ModStr1d	to Energy
+ModStr1e	to Mana
+ModStr1f	to Maximum Damage
+ModStr1g	to Minimum Damage
+ModStr1h	to Attack Rating
+ModStr1i	Defense
+ModStr1j	Fire Resist
+ModStr1k	Cold Resist
+ModStr1l	Lightning Resist
+ModStr1m	Magic Resist
+ModStr1n	Poison Resist
+ModStr1o	to Maximum Fire Damage
+ModStr1p	to Minimum Fire Damage
+ModStr1q	to Maximum Lightning Damage
+ModStr1r	to Minimum Lightning Damage
+ModStr1s	to Maximum Cold Damage
+ModStr1t	to Minimum Cold Damage
+ModStr1u	to Life
+ModStr1v	Attacker Takes Damage of
+ModStr1w	extra gold from monsters
+ModStr1x	better chance of getting magic item
+ModStr1y	Knockback
+ModStr1z	Elixir of Strength
+ModStr2a	Elixir of Dexterity
+ModStr2b	Elixir of Energy
+ModStr2c	Elixir of Vitality
+ModStr2d	Elixir of Mana
+ModStr2e	Elixir of Life
+ModStr2f	Sec. Duration
+ModStr2g	Increase Maximum Life
+ModStr2h	Increase Maximum Mana
+ModStr2i	Increase Maximum Durability
+ModStr2j	Enhanced Maximum Damage
+ModStr2k	Enhanced Minimum Damage
+ModStr2l	Replenish Life
+ModStr2m	Replenish Mana
+ModStr2n	Heal 1/4 Life
+ModStr2o	Heal 1/2 Life
+ModStr2p	Restore Full Life
+ModStr2q	Replenish 1/4 Mana
+ModStr2r	Replenish 1/2 Life
+ModStr2s	Restore Full Mana
+ModStr2t	Magic Damage Reduced by
+ModStr2u	Damage Reduced by
+Modstr2v	Enhanced Defense
+ModStr2w	Drain Life
+ModStr2x	Drain Mana
+ModStr2y	Mana stolen per hit
+ModStr2z	Life stolen per hit
+ModStr3a	to Amazon Skill Levels
+ModStr3b	to Paladin Skill Levels
+ModStr3c	to Necromancer Skill Levels
+ModStr3d	to Sorceress Skill Levels
+ModStr3e	to Barbarian Skill Levels
+ModStr3f	to Light Radius
+ModStr3g	Increased Chance of Blocking
+ModStr3h	Requirements
+ModStr3i	to Fire Skills
+ModStr3j	Attacker Takes Lightning Damage of
+ModStr3k	to All Skills
+ModStr3l	Freezes target
+ModStr3m	Chance of Open Wounds
+ModStr3n	Invisibility
+ModStr3o	Neutral Invisibility
+ModStr3p	No Mana Healing
+ModStr3q	No Life Healing
+ModStr3r	Poison Length Reduced by
+ModStr3u	Hit Causes Monster To Flee
+ModStr3v	Heal Stamina Plus
+ModStr3w	Damage Taken Goes To Mana
+ModStr3x	Heal Life Plus
+ModStr3y	Ignore Target's Defense
+ModStr3z	Half Poison Duration
+ModStr4a	Prevent Monster Heal
+ModStr4b	Half Freeze Duration
+ModStr4c	bonus to Attack Rating
+ModStr4d	to Monster Defense Per Hit
+ModStr4e	Damage to Demons
+ModStr4f	Damage to Undead
+ModStr4g	Regenerate Mana
+ModStr4h	to Maximum Poison Damage
+ModStr4i	to Minimum Poison Damage
+ModStr4j	to Attack Rating against Demons
+ModStr4k	to Attack Rating against Undead
+ModStr4l	Slightly Increased Attack Speed
+ModStr4m	Increased Attack Speed
+ModStr4n	Greatly Increased Attack Speed
+ModStr4o	Fast Hit Recovery
+ModStr4p	Faster Hit Recovery
+ModStr4q	Fastest Hit Recovery
+ModStr4r	Fast Run/Walk
+ModStr4s	Faster Run/Walk
+ModStr4t	Fastest Run/Walk
+ModStr4u	Fast Cast Rate
+ModStr4v	Faster Cast Rate
+ModStr4w	Fastest Cast Rate
+ModStr4x	Fast Block Rate
+ModStr4y	Faster Block Rate
+ModStr4z	Fastest Block Rate
+ModStr5a	Throwable
+ModStr5b	Damage
+ModStr5c	Chance of Crushing Blow
+ModStr5d	Maximum Stamina
+ModStr5e	Kick Damage
+ModStr5f	to Mana after each Kill
+ModStr5g	Fire Absorb
+ModStr5h	Fire Absorb
+ModStr5i	Lightning Absorb
+ModStr5j	Lightning Absorb
+ModStr5k	Magic Absorb
+ModStr5l	Magic Absorb
+ModStr5m	Cold Absorb
+ModStr5n	Cold Absorb
+ModStr5o	Target Defense
+ModStr5p	Extra Bloody
+ModStr5q	Deadly Strike
+ModStr5r	Slows target by
+ModStr5s	Blessed Aim
+ModStr5t	Defiance
+ModStr5u	to Maximum Fire Resist
+ModStr5v	to Maximum Cold Resist
+ModStr5w	to Maximum Lightning Resist
+ModStr5x	to Maximum Magic Resist
+ModStr5y	to Maximum Poison Resist
+ModStr5z	Cannot Be Frozen
+ModStr6a	Defense vs. Missile
+ModStr6b	Defense vs. Melee
+ModStr6c	Life after each Demon Kill
+ModStr6d	Hit blinds target
+ModStr6e	Stamina Drain
+ModStr6f	chance to reanimate target
+ModStr6g	Piercing Attack
+ModStr6h	Fires Magic Arrows
+ModStr6i	Fires Explosive Arrows or Bolts
+strModAllResistances	All Resistances +123}
+strModAllSkillLevels	+123 to All Skill Levels}
+strModFireDamage	+123 fire damage}
+strModFireDamageRange	Adds 123-123 fire damage}
+strModColdDamage	+123 cold damage}
+strModColdDamageRange	Adds 123-123 cold damage}
+strModLightningDamage	+123 lightning damage}
+strModLightningDamageRange	Adds 123-123 lightning damage}
+strModMagicDamage	+123 magic damage}
+strModMagicDamageRange	Adds 123-123 magic damage}
+strModPoisonDamage	+123 poison damage over 123 seconds}
+strModPoisonDamageRange	Adds 123-123 poison damage over 123 seconds}
+strModMinDamage	+123 damage}
+strModMinDamageRange	Adds 123-123 damage}
+strModEnhancedDamage	Enhanced damage}
+improved damage	Improved Damage
+improved to hit	Improved Attack Rating
+improved armor class	Improved Defense
+improved durability	Improved Durability
+Quick Strike	Quick Strike
+strGemPlace1	Can Be Inserted in Socketed
+strGemPlace2	Weapons, Shields or Helms
+gemeffect1	Helm: adds to strength}Shield: adds to shield's defense rating}Weapon: adds to attack rating}
+gemeffect2	Helm: adds to maximum mana}Shield: adds resistance to cold}Weapon: adds cold damage to attack}
+gemeffect3	Helm: adds to dexterity}Shield: adds resistance to poison}Weapon: adds poison damage to attack}
+gemeffect4	Helm: adds to maximum life}Shield: adds resistance to fire}Weapon: adds fire damage to attack}
+gemeffect5	Helm: adds to attack rating}Shield: adds to all resistances}Weapon: adds to damage vs. undead}
+gemeffect6	Helm: adds to chance to find magic items}Shield: adds resistance to lightning}Weapon: adds lightning damage to attack}
+gemeffect7	Helm: adds mana and life regeneration}Shield: adds attacker takes damage}Weapon: adds mana and life steal to attack}
+sysmsg1	 dropped due to timeout.
+sysmsg2	 dropped due to errors.
+sysmsg3	Player joined our world. Diablo's minions grow stronger.
+sysmsg4	Player left our world. Diablo's minions weaken.
+sysmsg5	 is not in the game.
+sysmsg6	 is not logged in.
+sysmsg7	 was slain by
+sysmsg8	 was slain by
+sysmsg9	 was slain.
+sysmsg10	Wrong type of Gem.
+sysmsg11	Realm is going down in 123 minutes.
+sysmsg12	 is not listening to you.
+sysmsgPlayer	Player
+chatmsg1	 whispers:
+chatmsg2	 shouts:
+chatmsg3	(LVL
+chatmsg3	 )
+syswork	Working...
+ShrId0	Null Shrine
+ShrId1	Refilling Shrine
+ShrId2	Health Shrine
+ShrId3	Mana Shrine
+ShrId4	Health Exchange Shrine
+ShrId5	Mana Exchange Shrine
+ShrId6	Armor Shrine
+ShrId7	Combat Shrine
+ShrId8	Resist Fire Shrine
+ShrId9	Resist Cold Shrine
+ShrId10	Resist Lightning Shrine
+ShrId11	Resist Poison Shrine
+ShrId12	Skill Shrine
+ShrId13	Mana Recharge Shrine
+ShrId14	Stamina Shrine
+ShrId15	Experience Shrine
+ShrId16	Enirhs Shrine
+ShrId17	Portal Shrine
+ShrId18	Gem Shrine
+ShrId19	Fire Shrine
+ShrId20	Monster Shrine
+ShrId21	Exploding Shrine
+ShrId22	Poison Shrine
+ShrMsg0	You feel nothing.
+ShrMsg1	You feel refreshed.
+ShrMsg2	You feel healthy.
+ShrMsg3	You feel recharged.
+ShrMsg4	You feel incredibly healthy.
+ShrMsg5	You feel infused with energy.
+ShrMsg6	Your skin hardens.
+ShrMsg7	You feel ready for battle.
+ShrMsg8	You no longer fear fire.
+ShrMsg9	You no longer fear cold.
+ShrMsg10	You no longer fear lightning.
+ShrMsg11	You no longer fear poison.
+ShrMsg12	You feel more skillful.
+ShrMsg13	Your spiritual force recovers quickly.
+ShrMsg14	The weight of the world seems lighter.
+ShrMsg15	Your experience teaches you well.
+ShrMsg16	Your sense of identity is subtly changed.
+ShrMsg17	The freedom to go home...
+ShrMsg18	A marvelous gem...
+ShrMsg19	A fiery death...
+ShrMsg20	Death's advocate approaches.
+ShrMsg21	A circle of flame...
+ShrMsg22	A circle of death...
+strqi1	Activate the stones in
+strqi2	this order.
+stsa1q3alert	The Horadric Malus has been returned to the Monastery.
+stsa1q4alert	The scroll of Inifuss has been returned to the Tree.
+stsa3q1alert	The minions of Diablo have taken back Lam Esen's Tome.
+qstsa1qt	The Townspeople
+qstsa1qt0	introduction
+qstsa1q0	Act 1 Prologue
+qstsa1q1	Den of Evil
+qstsa1q2	Sisters' Burial Grounds
+qstsa1q3	Tools of the Trade
+qstsa1q4	The Search for Cain
+qstsa1q5	The Forgotten Tower
+qstsa1q6	Sisters to the Slaughter
+strplaylast	Speech
+newquestlog	New Entry
+qsts	Quest Status
+noactivequest	No active quests.
+qstsxxx	Invalid Quest Value
+qstsnull	Invalid State
+qstsComplete	Quest completed.
+qstsother	You cannot complete this quest in this game. Another player completed it first.
+qstsprevious	You completed this quest in a previous game.
+qstsThankYouComeAgain	You cannot complete this quest in this game. You can complete it by creating a new game.
+qstsThankYouComeAgainMulti	You cannot complete this quest in this game. You can complete it by creating a new game or joining a different game.
+qstsThankYouComeAgainSingle	You cannot complete this quest in this game. Cain was rescued without your help.
+Qstsyouarenot8	You must be level 8 to complete this quest. You can complete it by creating a new game or joining a different game when you are at least level 8.
+qstsa1q3x	The person with the malus quit the game.
+qstsa1q4x	The person with the horadric scroll quit the game.
+qstsa1q11	Look for the Den in the wilderness outside the Rogues' Camp.
+qstsa1q12	Kill all the monsters in the Den.
+qstsa1q14	Monsters remaining:
+qstsa1q140	One monster left.
+qstsa1q15	Return to Akara for a reward.
+qstsa1q21	Look for Blood Raven in the Burial Grounds next to the Cold Plains.
+qstsa1q22	Kill Blood Raven.
+qstsa1q23	Return to Kashya for a reward.
+qstsa1q41	Go through the Underground Passage to the Dark Wood, search for the Tree of Inifuss, and recover the Scroll.
+qstsa1q42	Take the Scroll of Inifuss to Akara.
+qstsa1q43	Go to the Cairn Stones in the Stony Field. Touch the Stones in the order found on the Scroll of Inifuss. Enter the portal to Tristram, but beware the danger that lies ahead.
+qstsa1q44	Find and rescue Deckard Cain.
+qstsa1q45	Cain has been rescued and is now at the Rogue Encampment.
+qstsa1q46	Visit Cain and Akara in the Rogue Encampment.
+qstsa1q46b	Talk to Akara for a reward.
+qstsa1q51	Look for the Tower in the Black Marsh beyond the Dark Wood.
+qstsa1q51a	Explore the cellar dungeons beneath the Tower ruins.
+qstsa1q51b	Explore the cellar dungeons beneath the Tower ruins.
+qstsa1q52	Dispose of the evil Countess.
+qstsa1q31	Look for the Horadric Malus in the Monastery Barracks. Beware of the Smith that guards it.
+qstsa1q32	Return the Horadric Malus to Charsi.
+qstsa1q32b	Charsi will imbue an item with magical power.
+qstsa1q61	Find Andariel's Lair in the depths of the Monastery Catacombs.
+qstsa1q62	Kill Andariel.
+qstsa1q62b	Return to Warriv to take the Caravan East.
+qstsa1q63	Return to Warriv to take the Caravan East.
+KeyNone	None
+KeyLButton	Mouse 1
+KeyRButton	Mouse 2
+KeyCancel	Cancel
+KeyMButton	Mouse 3
+Key4Button	Mouse 4
+Key5Button	Mouse 5
+KeyWheelUp	Mouse Wheel Up
+KeyWheelDown	Mouse Wheel Down
+KeyKana	Kana
+KeyJunja	Junja
+KeyFinal	Final
+KeyKanji	Kanji
+KeyEscape	Escape
+KeyConvert	Convert
+KeyNonConvert	Non-Convert
+KeyAccept	Accept
+KeyModeChange	Mode Change
+KeyLeft	Left
+KeyUp	Up
+KeyRight	Right
+KeyDown	Down
+KeySelect	Select
+KeyExecute	Execute
+KeyLWin	Left Windows
+KeyRWin	Right Windows
+KeyApps	Apps Menu
+KeyNumLock	Num Lock
+KeyBack	Backspace
+KeyTab	Tab
+KeyClear	Clear
+KeyReturn	Enter
+KeyShift	Shift
+KeyControl	Ctrl
+KeyMenu	Alt
+KeyPause	Pause
+KeyCapital	Caps Lock
+KeySpace	Space
+KeyPrior	Page Up
+KeyNext	Page Down
+KeyEnd	End
+KeyHome	Home
+KeyPrint	P - Tell Ken
+KeySnapshot	Print Screen
+KeyInsert	Insert
+KeyDelete	Delete
+CfgPrimaryKey	Key/Button One
+CfgSecondaryKey	Key/Button Two
+CfgCharacter	Character Screen
+CfgInventory	Inventory Screen
+CfgParty	Party Screen
+CfgMessageLog	Message Log
+CfgQuestLog	Quest Log
+CfgChat	Chat
+CfgAutoMap	Automap
+CfgAutoMapCenter	Center Automap
+CfgMiniMap	Micromap
+CfgHelp	Help Screen
+CfgSkillTree	Skill Tree
+CfgSkillPick	Skill Speed Bar
+CfgSkill1	Skill 1
+CfgSkill2	Skill 2
+CfgSkill3	Skill 3
+CfgSkill4	Skill 4
+CfgSkill5	Skill 5
+CfgSkill6	Skill 6
+CfgSkill7	Skill 7
+CfgSkill8	Skill 8
+Cfgskillup	Select Previous Skill
+Cfgskilldown	Select Next Skill
+CfgBeltShow	Show Belt
+CfgBelt1	Use Belt 1
+CfgBelt2	Use Belt 2
+CfgBelt3	Use Belt 3
+CfgBelt4	Use Belt 4
+CfgBelt5	Use Belt 5
+CfgBelt6	Use Belt 6
+CfgBelt7	Use Belt 7
+CfgBelt8	Use Belt 8
+CfgBelt9	Use Belt 9
+CfgBelt10	Use Belt 10
+CfgBelt11	Use Belt 11
+CfgBelt12	Use Belt 12
+CfgRun	Run
+CfgRunLock	Toggle Run/Walk
+CfgStandStill	Stand Still
+CfgShowItems	Show Items
+CfgClearScreen	Clear Screen
+CfgSnapshot	Screen Shot
+CfgDefault	Default
+CfgAccept	Accept
+CfgCancel	Cancel
+strNoKeysAssigned	No keys were assigned because you neglected to assign one or more keys.
+KeysAssigned	Keys assigned.
+CantAssignMB	Cannot assign to mouse button
+CantAssignMW	Cannot assign to mouse wheel
+CantAssignKey	Cannot assign to this key
+CfgClearKey	Clear key
+Cfgcleartextmsg	Clear Messages
+CfgTogglePortraits	Show Portraits
+CfgAutoMapFade	Fade Automap
+CfgAutoMapNames	Names on Automap
+CfgAutoMapParty	Party on Automap
+strlvlup	New Stats
+strnewskl	New Skill
+warpsheader	Warps
+nowarps	No Warps
+waypointsheader	Choose your destination
+nowaypoints	No Other Waypoints Activated
+max	MAX
+MAX	MAX
+srostertitle	Players
+dwell	Dwell
+larva	Larva
+Barbarian	Barbarian
+Paladin	Paladin
+Necromancer	Necromancer
+Sorceress	Sorceress
+Amazon	Amazon
+druidstr 	Druid
+assassinstr	Assassin
+Nest	Nest
+NoParty	No Party
+ItsMyParty	Party  #
+Upgrade	imbue
+upgraderestrict	No Magic, Socketed, Rare, Unique, or Set Items. No Jewelry or Throwing Weapons.
+Use	Use Gem
+NPCIdentify1	Identify Items
+NPCIdentify2	Identify Items:
+strCannotDoThisToUnknown	Cannot repair unidentified items
+Body Looted	Body Looted
+Party1	 permits you to loot his corpse.
+Party2	 permits you to loot her corpse.
+Party3	 has expressed hostility towards you.
+Party4	 is no longer hostile towards you.
+Party5	 invites you to ally against the forces of evil.
+Party6	 has cancelled the party invite.
+Party7	 has joined your party to fight the forces of evil.
+Party8	You are now allied with
+Party9	 has left your party.
+strDropGoldHowMuch	How much Gold would you like to drop?
+strDropGoldInfo	Drop Gold
+strMsgLog	Message Log
+strBSArmor	Armor
+strBSWeapons	Weapons
+strBSMagic	Magic
+strBSMisc	Misc
+strTrade	trade
+strTradeAccept	accept trade
+strTradeAgreeTo	agree to trade
+strWaitingForOtherPlayer	asking other player to trade
+strTradeBusy	 is busy
+strTradeTooFull	One of you has too much stuff
+strTradeGoldHowMuch	How much Gold would you like to offer?
+strTradeTimeout	You must wait a short time to trade with that player.
+SysmsgPlayer1	:
+strBankGoldDeposit	How much Gold would you like to deposit?
+strBankGoldWithdraw	How much Gold would you like to withdraw?
+GoldMax	Gold Max: 123
+StrUI0	Golem
+StrUI1	Skeleton
+StrUI2	Mage
+StrUI3	Revived
+StrUI4	Valkyrie
+strchrlvl	Level
+strchrexp	Experience
+strchrnxtlvl	Next Level
+strchrstr	Strength
+strchrskm	Damage
+strchrdex	Dexterity
+strchratr	Attack Rating
+strchrdef	Defense
+strchrrat	Rating
+strchrvit	Vitality
+strchrstm	Stamina
+strchrlif	Life
+strchreng	Energy
+strchrman	Mana
+strchrfir	Fire}Resistance
+strchrcol	Cold}Resistance
+strchrlit	Lightning}Resistance
+strchrpos	Poison}Resistance
+strchrstat	Stat Points
+strchrrema	Remaining
+WeaponDescMace	Mace Class
+WeaponDescAxe	Axe Class
+WeaponDescSword	Sword Class
+WeaponDescDagger	Dagger Class
+WeaponDescThrownPotion	Equip to Throw
+WeaponDescJavelin	Javelin Class
+WeaponDescSpear	Spear Class
+WeaponDescBow	Bow Class
+WeaponDescStaff	Staff Class
+WeaponDescPoleArm	Polearm Class
+WeaponDescCrossBow	Crossbow Class
+WeaponAttackFastest	Fastest Attack Speed
+WeaponAttackVeryFast	Very Fast Attack Speed
+WeaponAttackFast	Fast Attack Speed
+WeaponAttackNormal	Normal Attack Speed
+WeaponAttackSlow	Slow Attack Speed
+WeaponAttackVerySlow	Very Slow Attack Speed
+WeaponAttackSlowest	Slowest Attack Speed
+strNecromanerOnly	(Necromancer Only)
+strPaladinOnly	(Paladin Only)
+strSorceressOnly	(Sorceress Only)
+strMaceSpecialDamage	Damage to Undead
+strGoldLabel	Gold
+strParty1	Invite this player
+strParty2	to join your party.
+strParty3	Accept this player's
+strParty4	invitation to form a party.
+strParty5	Cancel your invitation
+strParty6	to this player.
+strParty7	Click to go hostile
+strParty8	with this player.
+strParty9	Click to go neutral
+strParty10	with this player.
+strParty11	Click to allow this player
+strParty12	to loot your corpse.
+strParty13	Click to disallow this player
+strParty14	from looting your corpse.
+strParty15	Click to allow this player
+strParty16	to hear you.
+strParty17	Click to stop this player
+strParty18	from hearing you.
+strParty19	Click to squelch this player.
+strParty22	Click to un-squelch this player.
+strParty24	Remove yourself from party.
+strParty25	Must be toggled in town.
+StrParty26	Both players must be at least level 9
+StrParty27	to go hostile with each other
+strGoldWithdraw	Withdraw
+strGoldDrop	Drop Gold
+strGoldDeposit	Deposit
+strGoldTrade	Offer
+strGoldInStash	Gold in Stash:
+strGoldTradepup	Trade Gold
+strUiMenu1	Cancel
+strUiMenu2	Accept Trade
+strUiBank	ACCEPT TRADE
+strUnknownTomb	The True Tomb is Hidden.
+strTradeOtherBox	 has items in his box.
+strTradeBox	You have items in your box.
+strFree	 - Free for you
+act1	Act 1
+act2	Act 2
+act3	Act 3
+act4	Act 4
+level	Level
+lowercasecancel	cancel
+close	close
+strClose	Close
+Lightning Spell	Lightning Spell
+Fire Spell	Fire Spell
+Cold Spell	Cold Spell
+Yourparty	In your party
+Inparty	In a party
+Invite	INVITE
+Accept	ACCEPT
+Leave	LEAVE
+Partyclose	CLOSE
+partycharama	Amazon
+partycharsor	Sorceress
+partycharbar	Barbarian
+partycharnec	Necromancer
+partycharpal	Paladin
+charavghit	Average chance to hit
+charmonster	level 123 monster: 123%%
+charmontohit1	Average chance a level 123
+charmontohit2	monster will hit you: 123%%
+panelexp	Experience: %u / %u
+panelstamina	Stamina: 123 / 123
+panelhealth	Life: 123 / 123
+panelmana	Mana: 123 / 123
+panelmini	Open Mini Panel
+panelcmini	Close Mini Panel
+minipanelchar	Character
+minipanelinv	Inventory
+minipaneltree	Skill Tree
+minipanelparty	Party Screen
+minipanelautomap	Automap
+minipanelmessage	Message Log
+minipanelquest	Quest Log
+minipanelmenubtn	Game Menu (Esc)
+minipanelHelp	Help
+RunOn	Run
+RunOff	Walk
+automapgame	Game:
+automappw	Password:
+automapdif	Difficulty: Hell
+automapdif	Difficulty: Normal
+automapdif	Difficulty: Nightmare
+scrollbooktext	Quantity : 123
+skilldesc1	Level
+skilldesc2	 percent
+skilldesc3	Required Level :
+skilldesc4	Quantity
+strpanel1	Char Info
+strpanel2	Quests
+strpanel3	Unused
+strpanel4	Inventory
+strpanel5	Menu
+strpanel6	Automap
+strpanel7	Unused
+strpanel8	Skill Tree
+stashfull	Your stash is full.
+Strhelp1	Diablo II Help
+StrHelp9	Life Orb
+StrHelp10	Left Mouse-
+StrHelp11	Button Skill
+StrHelp12	(Click to Change)
+StrHelp13	Right Mouse-
+StrHelp14	Run/Walk
+StrHelp14a	Toggle
+StrHelp15	Stamina Bar
+StrHelp16	Experience
+StrHelp16a	Bar
+StrHelp17	Mini-Panel
+StrHelp21	Belt
+StrHelp22	Mana Orb
+StrSklTreea	Skill Tab 1
+StrSklTreeb	Skill Tab 2
+StrSklTreec	Skill Tab 3
+StrSklTree1	Skill
+StrSklTree2	Choices
+StrSklTree3	Remaining
+StrSklTree4	Skills
+StrSklTree5	Spells
+StrSklTree6	Javelin
+StrSklTree7	and Spear
+StrSklTree8	Passive
+StrSklTree9	and Magic
+StrSklTree10	Bow and
+StrSklTree11	Crossbow
+StrSklTree12	Defensive
+StrSklTree13	Auras
+StrSklTree14	Offensive
+StrSklTree15	Combat
+StrSklTree16	Summoning
+StrSklTree17	Poison
+StrSklTree18	and Bone
+StrSklTree19	Curses
+StrSklTree20	Warcries
+StrSklTree21	Combat
+StrSklTree22	Masteries
+StrSklTree23	Cold
+StrSklTree24	Lightning
+StrSklTree25	Fire
+StrSkill1	Next Level
+StrSkill2	Current Skill Level:
+StrSkill3	Mana Cost:
+StrSkill4	Damage:
+StrSkill5	Fire Damage:
+StrSkill6	Cold Damage:
+StrSkill7	Lightning Damage:
+StrSkill8	Poison Damage:
+StrSkill9	 arrows
+StrSkill10	To Attack Rating:
+StrSkill11	 hits
+StrSkill12	-
+StrSkill13	Cold Length:
+StrSkill14	Poison Length:
+StrSkill15	 second
+StrSkill16	 seconds
+StrSkill17	First Level
+StrSkill18	Radius:
+StrSkill19	 squares
+StrSkill20	Duration:
+StrSkill21	Defense:
+StrSkill22	Attack:
+StrSkill23	 percent
+StrSkill24	 percent chance
+StrSkill25	Enemy Defense:
+StrSkill26	 yards
+StrSkill27	 bolts
+StrSkill28	 teeth
+StrSkill29	Freeze Length:
+StrSkill30	Attack Bonus:
+StrSkill31	Defense Bonus:
+StrSkill32	Fire Damage
+StrSkill33	Weakens Enemies by
+StrSkill34	 per second
+StrSkill35	Continuous Fire Damage:
+StrSkill36	 yard
+StrSkill37	Damage Taken:
+StrSkill38	Target's Damage:
+StrSkill39	Magic Damage:
+StrSkill40	Absorbs
+StrSkill41	 damage
+StrSkill42	Life:
+StrSkill43	Improved Missile Damage
+StrSkill44	 skeletons total
+StrSkill43	 skeleton mage
+StrSkill44	 skeleton magi
+StrSkill45	Golem Level:
+StrSkill46	 percent of corpse Life
+StrSkill47	 damage to Self
+StrSkill48	Stun Length:
+StrSkill49	 percent of shield strength
+StrSkill50	Heals:
+StrSkill51	Resist Fire:
+StrSkill52	Resist Cold:
+StrSkill53	Resist Lightning:
+StrSkill54	Resist All:
+StrSkill55	 percent damage returned
+StrSkill56	Range:
+StrSkill57	Target's Attack:
+StrSkill58	Enemy runs up to
+StrSkill59	Enemy runs for
+StrSkill60	 per target
+StrSkill61	3 hits
+StrSkill62	Freezes for
+StrSkill63	over
+StrSkill64	 poison damage
+StrSkill65	Chance of losing durability:
+StrSkill66	Target stutters for
+StrSkill67	Ranged attacks slowed to
+StrSkill68	Average
+StrSkill69	Stamina Recovery Rate:
+StrSkill70	Velocity:
+StrSkill71	Stamina Bonus:
+StrSkill72	Releases
+StrSkill73	 charged bolts
+StrSkill74	Duration reduced by
+StrSkill75	Elemental Damages:
+StrSkill76	Chance uninterruptable
+StrSkill77	Enemies slowed
+StrSkill78	Remains target for
+StrSkill79	 percent of attack damage
+StrSkill80	Converts
+StrSkill81	 percent damage to life
+StrSkill82	Fire Duration:
+StrSkill83	Fire Explosion Damage:
+StrSkill84	Lightning Bolt Damage:
+StrSkill85	Reduces curse duration by
+StrSkill86	Attacks up to
+StrSkill87	 targets
+StrSkill88	Mana Recovery Rate:
+StrSkill89	Walk/Run Speed:
+StrSkill90	Resistances:
+StrSkill91	Holy Bolt Damage:
+StrSkill92	 mana per knockback
+StrSkill94	 skeleton total
+StrSkill95	Skeletons:
+StrSkill96	Magi:
+StrSkill97	Monsters:
+StrSkill98	Lowers Maximum Resistances
+StrSkill99	Chance to convert:
+StrSkill100	Max Life:
+StrSkill101	Max Mana:
+StrSkill102	Max Stamina:
+StrSkill103	 percent fire damage
+StrSkill104	 monster
+StrSkill105	 monsters
+StrSkill106	Attack Speed:
+StrSkill107	Life/Mana Recovered:
+StrSkill108	 points
+StrSkill109	Chance to redeem soul:
+StrSkill110	Successful Blocking:
+StrSkill111	 per yard
+StrSkill112	Thorns damage
+StrSkill113	Hydra Fire Damage:
+StrSkill114	Resist Elemental Damage:
+StrSkill115	Minimum Mana Required to Cast:
+StrSkill116	Maximum Level Reached
+StrSkill117	 (item)
+StrSkill118	You have been granted this skill by an item
+StrSkill119	You have not learned this skill yet
+skillname0	Attack
+skillsd0	normal attack
+skillld0	normal attack
+skillan0	Attack
+skillname1	Kick
+skillsd1	kick target
+skillld1	kick target
+skillan1	kick target
+skillname2	Throw
+skillsd2	throw equipped item
+skillld2	throw equipped item
+skillan2	Throw
+skillname3	Unsummon
+skillsd3	releases a summoned creature
+skillld3	of one of your creatures}relinquishes control
+skillan3	Unsummon
+skillname4	Left Hand Throw
+skillsd4	throw left hand item
+skillld4	throw left hand item
+skillan4	Left Throw
+skillname5	Left Hand Swing
+skillsd5	swing left hand weapon
+skillld5	swing left hand weapon
+skillan5	Left Swing
+skillname6	Magic Arrow
+skillsd6	creates a magical arrow
+skillld6	that does extra damage}creates a magical arrow or bolt
+skillan6	Magic Arrow
+skillname7	Fire Arrow
+skillsd7	enchants arrows with flame
+skillld7	always hits}or bolts with fire}magically enhances your arrows
+skillan7	Fire Arrow
+skillname8	Inner Sight
+skillsd8	illuminates and weakens nearby monsters
+skillld8	for you and your party}making them easier to hit}illuminates nearby enemies
+skillan8	Inner Sight
+skillname9	Critical Strike
+skillsd9	passive - chance of doing double damage
+skillld9	passive - your attacks have a chance to do double damage
+skillan9	Critical Strike
+skillname10	Jab
+skillsd10	rapid attacks with a thrusting weapon
+skillld10	using a javelin or spear class weapon}attacks with a series of rapid thrusts
+skillan10	Jab
+skillname11	Cold Arrow
+skillsd11	enchants arrows to slow targets
+skillld11	always hits}cold arrows only do half of their regular damage}by adding cold damage and a slowing effect}magically enhances your arrows or bolts
+skillan11	Cold Arrow
+skillname12	Multiple Shot
+skillsd12	fires multiple arrows
+skillld12	or bolt into many}magically splits one arrow
+skillan12	Multiple Shot
+skillname13	Dodge
+skillsd13	passive - dodges melee attacks
+skillld13	or standing still}a melee attack when attacking}passive - you have a chance to dodge
+skillan13	Dodge
+skillname14	Power Strike
+skillsd14	adds lightning damage
+skillld14	javelin and spear class weapons}adds lightning damage to attacks with
+skillan14	Power Strike
+skillname15	Poison Javelin
+skillsd15	adds poison damage
+skillld15	to leave a trail of poison clouds}magically enhances your javelin
+skillan15	Poison Javelin
+skillname16	Exploding Arrow
+skillsd16	enchant arrows to explode
+skillld16	always hits}contact, damaging all nearby enemies}enchants an arrow or bolt that explodes on
+skillan16	Exploding
+skillname17	Slow Missiles
+skillsd17	slows ranged attacks of enemies
+skillld17	illuminates nearby enemies and slows their ranged attacks
+skillan17	Slow Missiles
+skillname18	Avoid
+skillsd18	passive - dodges missiles
+skillld18	when attacking or standing still}passive - you have a chance to dodge enemy missiles
+skillan18	Avoid
+skillname19	Impale
+skillsd19	increases damage but degrades weapon
+skillld19	increases attack damage but rapidly degrades the weapon
+skillan19	Impale
+skillname20	Lightning Bolt
+skillsd20	changes a thrown javelin into lightning
+skillld20	magically converts your javelin into a bolt of lightning
+skillan20	Lightning Bolt
+skillname21	Ice Arrow
+skillsd21	enchants arrows to freeze enemies
+skillld21	always hits}to freeze your enemies}magically enhances your arrow or bolt
+skillan21	Ice Arrow
+skillname22	Guided Arrow
+skillsd22	enchants arrows to seek enemies
+skillld22	always hits}or seek one of its own}to track your target}enhances your arrows and bolts
+skillan22	Guided Arrow
+skillname23	Penetrate
+skillsd23	passive - increases attack rating
+skillld23	passive - increases your attack rating
+skillan23	Penetrate
+skillname24	Charged Strike
+skillsd24	enchants thrusting weapons with charged bolts
+skillld24	and releases charged bolts upon impact}adds lightning damage to javelin and spear class weapons
+skillan24	Charged Strike
+skillname25	Plague Javelin
+skillsd25	enchants javelins with poison explosions
+skillld25	expanding clouds of poison upon impact}magically enhances your javelin to release
+skillan25	Plague Javelin
+skillname26	Strafe
+skillsd26	enchants arrows to strike multiple targets
+skillld26	that target multiple nearby enemies}magically splits one arrow into several
+skillan26	Strafe
+skillname27	Immolation Arrow
+skillsd27	enchants arrows to burn enemies
+skillld27	always hits}creates a pyre upon impact}cause severe fire damage and}enhances arrows or bolts to
+skillan27	Immolation
+skillname28	Decoy
+skillsd28	creates a duplicate of yourself
+skillld28	that draws fire from enemies}creates a duplicate of yourself
+skillan28	Decoy
+skillname29	Evade
+skillsd29	passive - dodges when moving
+skillld29	when walking or running}a melee or missile attack}passive - you have a chance to dodge
+skillan29	Evade
+skillname30	Fend
+skillsd30	attacks all adjacent targets
+skillld30	attacks all adjacent targets
+skillan30	Fend
+skillname31	Freezing Arrow
+skillsd31	enchants arrows to freeze multiple monsters
+skillld31	always hits}to freeze entire groups of monsters}magically enhances an arrow or bolt
+skillan31	Freezing Arrow
+skillname32	Valkyrie
+skillsd32	summons a powerful Valkyrie ally
+skillld32	summons a powerful Valkyrie ally
+skillan32	Valkyrie
+skillname33	Pierce
+skillsd33	passive - missiles may continue through enemies
+skillld33	pass through enemies that they hit}passive - your missiles have a chance to
+skillan33	Pierce
+skillname34	Lightning Strike
+skillsd34	enchants thrusting weapons with chain lightning
+skillld34	and releases chain lightning upon impact}adds lightning damage to javelin and spear class weapons
+skillan34	Light'ng Strike
+skillname35	Lightning Fury
+skillsd35	a lightning bolt that splits on impact
+skillld35	bolt of lightning that splits on impact}changes a thrown javelin into a powerful
+skillan35	Lightning Fury
+skillname36	Fire Bolt
+skillsd36	creates a missile of flame
+skillld36	creates a magical flaming missile
+skillan36	Fire Bolt
+skillname37	Warmth
+skillsd37	passive - increases mana recovery rate
+skillld37	passive - increases the rate at which you recover mana
+skillan37	Warmth
+skillname38	Charged Bolt
+skillsd38	creates multiple deadly sparks
+skillld38	bolts of electrical energy}creates multiple, randomly directed
+skillan38	Charged Bolt
+skillname39	Ice Bolt
+skillsd39	creates a shard of ice that slows enemies
+skillld39	that damages and slows your enemies}creates a magical bolt of ice
+skillan39	Ice Bolt
+skillname40	Frozen Armor
+skillsd40	improves defense and freezes attacker
+skillld40	and freezes enemies that hit you}increases your defense rating
+skillan40	Frozen Armor
+skillname41	Inferno
+skillsd41	creates a jet of flame
+skillld41	to scorch your enemies}creates a continuous jet of flame
+skillan41	Inferno
+skillname42	Static Field
+skillsd42	creates a field of deadly sparks
+skillld42	of all nearby enemies by one third}creates an electrical field that reduces life
+skillan42	Static Field
+skillname43	Telekinesis
+skillsd43	moves objects with your mind
+skillld43	and knock back enemies}pick up items, use objects,}uses the power of your mind to
+skillan43	Telekinesis
+skillname44	Frost Nova
+skillsd44	creates a freezing ring
+skillld44	and slows all nearby enemies}creates an expanding ring of ice that damages
+skillan44	Frost Nova
+skillname45	Ice Blast
+skillsd45	creates an ice bolt that freezes enemies
+skillld45	damages and freezes your enemy}creates a magical sphere of ice that
+skillan45	Ice Blast
+skillname46	Blaze
+skillsd46	creates fire in your wake
+skillld46	in your wake to scorch your enemies}creates a wall of fire
+skillan46	Blaze
+skillname47	Fire Ball
+skillsd47	creates an explosive sphere of fire
+skillld47	to engulf your enemies}creates an explosive sphere of fiery death
+skillan47	Fire Ball
+skillname48	Nova
+skillsd48	creates an electrically charged ring
+skillld48	to shock nearby enemies}creates an expanding ring of lightning
+skillan48	Nova
+skillname49	Lightning
+skillsd49	creates a bolt of lightning
+skillld49	to lay waste to your enemies}creates a powerful lightning bolt
+skillan49	Lightning
+skillname50	Shiver Armor
+skillsd50	freezes and damages attackers
+skillld50	freezes and damages enemies that hit you}increases your defense rating
+skillan50	Shiver Armor
+skillname51	Fire Wall
+skillsd51	creates a wall of flame
+skillld51	blocks or burns your enemies}creates a wall of flame that
+skillan51	Fire Wall
+skillname52	Enchant
+skillsd52	enchants melee or ranged weapons with fire
+skillld52	adds one-third fire damage to ranged weapons}adds fire damage to melee weapons}enchants equipped weapon of targeted character or minion
+skillan52	Enchant
+skillname53	Chain Lightning
+skillsd53	creates a bolt of lightning that arcs
+skillld53	arcs through several targets}creates a bolt of lightning that
+skillan53	Chain Lightning
+skillname54	Teleport
+skillsd54	instantly moves to destination
+skillld54	instantly moves to a destination within your line of sight
+skillan54	Teleport
+skillname55	Glacial Spike
+skillsd55	creates a freezing comet of ice
+skillld55	that freezes or kills nearby enemies}creates a magical ice comet
+skillan55	Glacial Spike
+skillname56	Meteor
+skillsd56	summons a meteor from the heavens
+skillld56	to crush and incinerate your enemies}summons a meteor from the heavens
+skillan56	Meteor
+skillname57	Thunder Storm
+skillsd57	summons a powerful tempest
+skillld57	your enemies with bolts of lightning}summons a deadly thunderstorm that strikes
+skillan57	Thunder Storm
+skillname58	Energy Shield
+skillsd58	uses your mana as a shield
+skillld58	instead of health when you take damage}creates a magical shield that consumes mana
+skillan58	Energy Shield
+skillname59	Blizzard
+skillsd59	summons a massive ice storm
+skillld59	summons massive shards of ice to destroy your enemies
+skillan59	Blizzard
+skillname60	Chilling Armor
+skillsd60	retaliates against ranged attackers
+skillld60	against ranged attackers}increases defense and discharges an ice bolt in retaliation
+skillan60	Chill'n Armor
+skillsname61	Fire Mastery
+skillsd61	passive - increases fire damage
+skillld61	passive - increases all damage caused by your fire spells
+skillan61	Fire Mastery
+skillname62	Hydra
+skillsd62	summons multi-headed fire beast
+skillld62	to reduce your enemies to ashes}summons a multi-headed beast of flame
+skillan62	Hydra
+skillname63	Lightning Mastery
+skillsd63	passive - reduces cost of lightning spells
+skillld63	to cast your lightning spells}passive - reduces the mana required
+skillan63	Lightning Mastery
+skillname64	Frozen Orb
+skillsd64	creates a globe of frozen death
+skillld64	to lay waste to your enemies}creates a magical globe that sprays a torrent of ice bolts
+skillan64	Frozen Orb
+skillname65	Cold Mastery
+skillsd65	passive - cold attacks become piercing
+skillld65	by piercing enemies resistances to cold}passive - increases the damage of your cold attacks
+skillan65	Cold Mastery
+skillname66	Amplify Damage
+skillsd66	curse - amplifies damage taken by enemies
+skillld66	the non-magic damage they receive}curses a group of enemies, increasing
+skillan66	Amplify
+skillname67	Teeth
+skillsd67	fires barbed teeth
+skillld67	fires a barrage of summoned barbed teeth
+skillan67	Teeth
+skillname68	Bone Armor
+skillsd68	creates a damage absorbing bone shell
+skillld68	that absorbs melee damage}creates an orbiting shield of bone
+skillan68	Bone Armor
+skillname69	Skeleton Mastery
+skillsd69	passive - better skeletons and revived creatures
+skillld69	of raised skeletons and revived creatures}passive - increases life and damage
+skillan69	Skeleton Mastery
+skillname70	Raise Skeleton
+skillsd70	reanimate skeletal warrior from target corpse
+skillld70	fights for you}this raises a skeleton warrior that}cast on the corpse of a slain monster,
+skillan70	Raise Skeleton
+skillname71	Dim Vision
+skillsd71	curse - reduces vision of monsters
+skillld71	reducing their vision radius}curses a group of monsters,
+skillan71	Dim Vision
+skillname72	Weaken
+skillsd72	curse - reduces damage done by enemies
+skillld72	reducing the amount of damage they inflict}curses a group of enemies,
+skillan72	Weaken
+skillname73	Poison Dagger
+skillsd73	next dagger attack poisons target
+skillld73	adds poison to your dagger attacks
+skillan73	Poison Dagger
+skillname74	Corpse Explosion
+skillsd74	turns a corpse into a bomb
+skillld74	it explodes, damaging nearby enemies}cast on the corpse of a slain monster,
+skillan74	Corpse Exp.
+skillname75	Clay Golem
+skillsd75	creates a golem to fight for you
+skillld75	to fight by your side}creates a golem from the earth
+skillan75	Clay Golem
+skillname76	Iron Maiden
+skillsd76	curse - enemies damage themselves
+skillld76	to damage themselves when damaging others}curses a group of enemies, causing them
+skillan76	Iron Maiden
+skillname77	Terror
+skillsd77	curse - monsters run away in fear
+skillld77	causing them to flee in terror}curses a group of monsters,
+skillan77	Terror
+skillname78	Bone Wall
+skillsd78	creates an impassable barrier
+skillld78	of bone and debris}creates an impassable barrier
+skillan78	Bone Wall
+skillname79	Golem Mastery
+skillsd79	Enhances Speed and Life of Golems
+skillld79	Enhances Speed and Life of all your Golems
+skillan79	Golem Mastery
+skillname80	Raise Skeletal Mage
+skillsd80	reanimate skeletal mage from target corpse
+skillld80	fights for you}this raises a skeleton mage that}cast on the corpse of a slain monster,
+skillan80	Skeletal Mage
+skillname81	Confuse
+skillsd81	curse - monster attacks random targets
+skillld81	curses a monster to force it to attack random targets
+skillan81	Confuse
+skillname82	Life Tap
+skillsd82	curse - enemies return life to attacker
+skillld82	damaging them gives the attacker life}curses a group of monsters so that
+skillan82	Life Tap
+skillname83	Poison Explosion
+skillsd83	turns a corpse into a poison gas bomb
+skillld83	that poisons nearby monsters}toxic gas is released}cast on the corpse of a slain monster,
+skillan83	Poison Exp.
+skillname84	Bone Spear
+skillsd84	summons a deadly spike of bone
+skillld84	summons a deadly spike of bone to impale your enemies
+skillan84	Bone Spear
+skillname85	Blood Golem
+skillsd85	a golem that shares life and damage
+skillld85	it steals and damage it receives}creates a golem that shares with you the life
+skillan85	Blood Golem
+skillname86	Attract
+skillsd86	curse - monster becomes universal target
+skillld86	this curse may not be overridden by another curse}target of all nearby monsters}curses a monster to becomes the
+skillan86	Attract
+skillname87	Decrepify
+skillsd87	curse - greatly slows and weakens enemies
+skillld87	slow, weak and take amplified damage}curses a group of enemies to make them
+skillan87	Decrepify
+skillname88	Bone Prison
+skillsd88	creates a barrier of bone around target
+skillld88	creates a barrier of fossilized bone around your target
+skillan88	Bone Prison
+skillname89	Summon Resist
+skillsd89	passive - summoned monsters gain resistances
+skillld89	of all summoned creatures}passive - increases the resistances
+skillan89	Summon Resist
+skillname90	Iron Golem
+skillsd90	creates a golem from an item
+skillld90	the properties of the item}transforms a metallic item into a golem that gains
+skillan90	Iron Golem
+skillname91	Lower Resist
+skillsd91	curse - lowers enemies resistance to magic
+skillld91	lowers maximum resistances of hostile players}lowers resistances of monsters}curses an enemy to take more damage from all magical attacks
+skillan91	Lower Resist
+skillname92	Poison Nova
+skillsd92	emits an expanding ring of poison
+skillld92	emits an expanding ring of concentrated poison
+skillan92	Poison Nova
+skillname93	Bone Spirit
+skillsd93	releases an undead specter
+skillld93	tracks its target or finds one of its own}releases a spirit of the restless undead that
+skillan93	Bone Spirit
+skillname94	Fire Golem
+skillsd94	creates a golem of fire
+skillld94	it receives from fire into life}creates a golem that converts the damage
+skillan94	Fire Golem
+skillname95	Revive
+skillsd95	raises a monster to fight for you
+skillld95	to fight by your side}returns a monster to life
+skillan95	Revive
+skillname96	Sacrifice
+skillsd96	increased accuracy and damage
+skillld96	at the cost of life}increased accuracy and damage
+skillan96	Sacrifice
+skillname97	Smite
+skillsd97	shield bash
+skillld97	by bashing it with your shield}temporarily stun your enemy
+skillan97	Smite
+skillname98	Might
+skillsd98	aura - increases damage
+skillld98	done by you and your party}when active, aura increases the damage
+skillan98	Might
+skillname99	Prayer
+skillsd99	aura - regenerates life
+skillld99	the life of you and your party}when active, aura slowly regenerates
+skillan99	Prayer
+skillname100	Resist Fire
+skillsd100	aura - protects against fire damage
+skillld100	done to you and your party}when active, aura decreases fire damage
+skillan100	Resist Fire
+skillname101	Holy Bolt
+skillsd101	divine energy that damages undead
+skillld101	or heals allies}that damages undead enemies}a bolt of divine energy
+skillan101	Holy Bolt
+skillname102	Holy Fire
+skillsd102	aura - flames damage nearby enemies
+skillld102	with heavenly flames}when active, aura damages nearby enemies
+skillan102	Holy Fire
+skillname103	Thorns
+skillsd103	aura - reflects damage back at enemies
+skillld103	back at your attacker}when active, aura reflects damage done to you
+skillan103	Thorns
+skillname104	Defiance
+skillsd104	aura - increases defense
+skillld104	of you and your party}when active, aura increases the defense rating
+skillan104	Defiance
+skillname105	Resist Cold
+skillsd105	aura - protects against cold damage
+skillld105	done to you and your party}when active, aura decreases cold damage
+skillan105	Resist Cold
+skillname106	Zeal
+skillsd106	attacks multiple adjacent enemies
+skillld106	with a single attack}allows you to attack multiple adjacent enemies
+skillan106	Zeal
+skillname107	Charge
+skillsd107	charge and attack target
+skillld107	charge into battle and attack an enemy
+skillan107	Charge
+skillname108	Blessed Aim
+skillsd108	aura - increases your attack rating
+skillld108	for you and your party}when active, aura increases the attack rating
+skillan108	Blessed Aim
+skillname109	Cleansing
+skillsd109	aura - reduces poison and curse duration
+skillld109	will remain poisoned or cursed}of time you and your party}when active, aura reduces the length
+skillan109	Cleansing
+skillname110	Resist Lightning
+skillsd110	aura - protects against lightning damage
+skillld110	done to you and your party}when active, aura decreases lightning damage
+skillan110	R. Lightning
+skillname111	Vengeance
+skillsd111	attacks add elemental damage
+skillld111	to each successful attack}fire, lightning and cold damage are added
+skillan111	Vengeance
+skillname112	Blessed Hammer
+skillsd112	summon a spiraling magic hammer
+skillld112	150 Percent Damage to Undead}spirals outwards damaging enemies it hits}summons an ethereal hammer that
+skillan112	B. Hammer
+skillname113	Concentration
+skillsd113	aura - increases your attack ability
+skillld113	that the attack will be interrupted for you and your party }when active, aura increases the damage and decreases the chance
+skillan113	Concentration
+skillname114	Holy Freeze
+skillsd114	aura - freezes nearby monsters
+skillld114	when active, aura freezes nearby monsters
+skillan114	Holy Freeze
+skillname115	Vigor
+skillsd115	aura - increases speed and stamina recovery
+skillld115	and movement speed for you and your party}when active, aura increases stamina recovery rate, maximum stamina
+skillan115	Vigor
+skillname116	Conversion
+skillsd116	Change allegiance of monsters
+skillld116	other foul demons and beasts}converts monsters to fight against
+skillan116	Conversion
+skillname117	Holy Shield
+skillsd117	enhances your shield
+skillld117	enhances your shield with divine power
+skillan117	Holy Shield
+skillname118	Holy Shock
+skillsd118	aura - lightning damages nearby enemies
+skillld118	to damage nearby enemies}when active, aura causes pulses of electricity
+skillan118	Holy Shock
+skillname119	Sanctuary
+skillsd119	aura - repels and damages undead
+skillld119	and knocks them back}when active, aura damages the undead
+skillan119	Sanctuary
+skillname120	Meditation
+skillsd120	aura - increases mana recovery
+skillld120	for you and your party}when active, aura increases mana recovery
+skillan120	Meditation
+skillname121	Fist of the Heavens
+skillsd121	target is banished
+skillld121	seek out nearby enemies}lightning strikes your target as holy bolts
+skillan121	Heaven's Fist
+skillname122	Fanaticism
+skillsd122	aura - increases attack speed
+skillld122	and attack rating for you and your party}when active, aura increases attack speed
+skillan122	Fanaticism
+skillname123	Conviction
+skillsd123	aura  - weakens enemies
+skillld123	and resistances of nearby enemies}when active, aura reduces the defenses
+skillan123	Conviction
+skillname124	Redemption
+skillsd124	aura - redeems the dead for mana and life
+skillld124	life and mana to you and your party}the souls of slain enemies to give}when active, aura attempts to redeem
+skillan124	Redemption
+skillname125	Salvation
+skillsd125	aura - protects against elemental damage
+skillld125	done to you and your party}when active, aura decreases fire, cold and lightning damage
+skillan125	Salvation
+skillname126	Bash
+skillsd126	powerful blow that increases damage
+skillld126	to enemies and knocks them back}powerful blow that increases the damage done
+skillan126	Bash
+skillname127	Sword Mastery
+skillsd127	passive - improves sword fighting skill
+skillld127	passive - improves sword fighting skill
+skillan127	Sword Mastery
+skillname128	Axe Mastery
+skillsd128	passive - improves axe fighting skill
+skillld128	passive - improves axe fighting skill
+skillan128	Axe Mastery
+skillname129	Mace Mastery
+skillsd129	passive - improves mace fighting skill
+skillld129	passive - improves mace fighting skill
+skillan129	Mace Mastery
+skillname130	Howl
+skillsd130	frightens nearby monsters
+skillld130	scrambling away in fear}sends nearby monsters
+skillan130	Howl
+skillname131	Find Potion
+skillsd131	targets corpses to find potions
+skillld131	for a chance to find a potion}use on the corpse of a slain monster
+skillan131	Find Potion
+skillname132	Leap
+skillsd132	jumps over obstacles
+skillld132	or into the fray}leaps away from danger
+skillan132	Leap
+skillname133	Double Swing
+skillsd133	swings two weapons at once
+skillld133	or one target twice}attacks two targets if possible,}when two weapons are equipped
+skillan133	Double Swing
+skillname134	Pole Arm Mastery
+skillsd134	passive - improves pole arm skill
+skillld134	passive - improves pole arm skill
+skillan134	Pole Arm Mastery
+skillname135	Throwing Mastery
+skillsd135	passive - improves thrown weapon skill
+skillld135	passive - improves thrown weapon skill
+skillan135	Throwing Mastery
+skillname136	Spear Mastery
+skillsd136	passive - improves spear fighting skill
+skillld136	passive - improves spear fighting skill
+skillan136	Spear Mastery
+skillname137	Taunt
+skillsd137	causes a monster to attack
+skillld137	enrages a monster into relentlessly attacking
+skillan137	Taunt
+skillname138	Shout
+skillsd138	alerts party and improves defense
+skillld138	rating of you and your party}warns of impending danger and improves the defense
+skillan138	Shout
+skillname139	Stun
+skillsd139	stuns your target
+skillld139	and increases your attack rating}stuns your target for a short time
+skillan139	Stun
+skillname140	Double Throw
+skillsd140	throw two weapons at once
+skillld140	throwing weapons at the same time}allows you to throw two different
+skillan140	Double Throw
+skillname141	Increased Stamina
+skillsd141	passive - increases stamina
+skillld141	passive - increases your stamina
+skillan141	Increased Stamina
+skillname142	Find Item
+skillsd142	targets corpses to find items
+skillld142	to find hidden treasures}use on the corpse of a slain monster
+skillan142	Find Item
+skillname143	Leap Attack
+skillsd143	leaps and attacks target enemy
+skillld143	in one swift assault}leaps to and attacks target enemy
+skillan143	Leap Attack
+skillname144	Concentrate
+skillsd144	attack that is not interruptible
+skillld144	improves attack and defense rating}attack that is not interruptible and
+skillan144	Concentrate
+skillname145	Iron Skin
+skillsd145	passive - improves defense rating
+skillld145	passive - improves defense rating
+skillan145	Iron Skin
+skillname146	Battle Cry
+skillsd146	reduces enemy effectiveness
+skillld146	enemies defense rating and damage}fearsome cry that decreases
+skillan146	Battle Cry
+skillname147	Frenzy
+skillsd147	successful double swing hit increases speed
+skillld147	requires you to equip two weapons}each successful attack increases your overall speed}allows you to swing two weapons at once
+skillan147	Frenzy
+skillname148	Increased Speed
+skillsd148	passive - increases walk and run speed
+skillld148	passive - increases walk and run speed
+skillan148	Increased Speed
+skillname149	Battle Orders
+skillsd149	improves life, mana and stamina of party
+skillld149	stamina of you and your party}improves the maximum mana, life and
+skillan149	Battle Orders
+skillname150	Grim Ward
+skillsd150	creates a frightening totem
+skillld150	that causes nearby monsters to flee}to create a frightening totem}use on the corpse of a slain monster
+skillan150	Grim Ward
+skillname151	Whirlwind
+skillsd151	whirling dance of death
+skillld151	legions of your enemies}that cuts a path through the}a whirling dance of death
+skillan151	Whirlwind
+skillname152	Berserk
+skillsd152	powerful but reckless attack
+skillld152	but decreases defense rating}that increases damage and attack rating}a powerful but reckless attack
+skillan152	Berserk
+skillname153	Natural Resistance
+skillsd153	passive - increases natural resistances
+skillld153	to elemental and poison damage}passive - increases natural resistances
+skillan153	Natural Resistance
+skillname154	War Cry
+skillsd154	injures and stuns nearby enemies
+skillld154	injures and stuns all nearby enemies
+skillan154	War Cry
+skillname155	Battle Command
+skillsd155	increases skill levels
+skillld155	increases all current skill levels for you and your party
+skillan155	Battle Cmd
+skillname217	Scroll of Identify
+skillsd217	identify a magic item's properties
+skillld217	identify a magic item's properties
+skillan217	Identify
+skillname218	Tome of Identify
+skillsd218	identify a magic item's properties
+skillld218	identify a magic item's properties
+skillan218	Identify
+skillname219	Scroll of Townportal
+skillsd219	create a magic portal to the nearest town
+skillld219	create a magic portal to the nearest town
+skillan219	Townportal
+skillname220	Tome of Townportal
+skillsd220	create a magic portal to the nearest town
+skillld220	create a magic portal to the nearest town
+skillan220	Townportal
+strMephistoDoorLocked	Ormus has the key that opens this door.
+strTitleFeminine	Lady Player
+strTitleMasculine	Lord Player
+strChatHardcore	Hardcore
+strChatLevel	Level 123
+Tristram	Tristram
+Catacombs Level 4	Catacombs Level 4
+Catacombs Level 3	Catacombs Level 3
+Catacombs Level 2	Catacombs Level 2
+Catacombs Level 1	Catacombs Level 1
+Cathedral	Cathedral
+Inner Cloister	Inner Cloister
+Jail Level 3	Jail Level 3
+Jail Level 2	Jail Level 2
+Jail Level 1	Jail Level 1
+Barracks	Barracks
+Outer Cloister	Outer Cloister
+Monastery Gate	Monastery Gate
+Tower Cellar Level 5	Tower Cellar Level 5
+Tower Cellar Level 4	Tower Cellar Level 4
+Tower Cellar Level 3	Tower Cellar Level 3
+Tower Cellar Level 2	Tower Cellar Level 2
+Tower Cellar Level 1	Tower Cellar Level 1
+Forgotten Tower	Forgotten Tower
+Mausoleum	Mausoleum
+Crypt	Crypt
+Burial Grounds	Burial Grounds
+Pit Level 2	Pit Level 2
+Hole Level 2	Hole Level 2
+Underground Passage Level 2	Underground Passage Level 2
+Cave Level 2	Cave Level 2
+Pit Level 1	Pit Level 1
+Hole Level 1	Hole Level 1
+Underground Passage Level 1	Underground Passage Level 1
+Cave Level 1	Cave Level 1
+Den of Evil	Den of Evil
+Tamoe Highland	Tamoe Highland
+Black Marsh	Black Marsh
+Dark Wood	Dark Wood
+Stony Field	Stony Field
+Cold Plains	Cold Plains
+Blood Moor	Blood Moor
+Rogue Encampment	Rogue Encampment
+To Tristram	To Tristram
+To The Catacombs Level 4	To The Catacombs Level 4
+To The Catacombs Level 3	To The Catacombs Level 3
+To The Catacombs Level 2	To The Catacombs Level 2
+To The Catacombs Level 1	To The Catacombs Level 1
+To The Cathedral	To The Cathedral
+To The Inner Cloister	To The Inner Cloister
+To The Jail Level 3	To The Jail Level 3
+To The Jail Level 2	To The Jail Level 2
+To The Jail Level 1	To The Jail Level 1
+To The Barracks	To The Barracks
+To The Outer Cloister	To The Outer Cloister
+To The Monastery Gate	To The Monastery Gate
+To The Tower Cellar Level 5	To The Tower Cellar Level 5
+To The Tower Cellar Level 4	To The Tower Cellar Level 4
+To The Tower Cellar Level 3	To The Tower Cellar Level 3
+To The Tower Cellar Level 2	To The Tower Cellar Level 2
+To The Tower Cellar Level 1	To The Tower Cellar Level 1
+To The Forgotten Tower	To The Forgotten Tower
+To The Mausoleum	To The Mausoleum
+To The Crypt	To The Crypt
+To The Burial Grounds	To The Burial Grounds
+To The Pit Level 2	To The Pit Level 2
+To The Hole Level 2	To The Hole Level 2
+To Underground Passage Level 2	To Underground Passage Level 2
+To The Cave Level 2	To The Cave Level 2
+To The Pit Level 1	To The Pit Level 1
+To The Hole Level 1	To The Hole Level 1
+To Underground Passage Level 1	To Underground Passage Level 1
+To The Cave Level 1	To The Cave Level 1
+To The Den of Evil	To The Den of Evil
+To The Tamoe Highland	To The Tamoe Highland
+To The Black Marsh	To The Black Marsh
+To The Dark Wood	To The Dark Wood
+To The Stony Field	To The Stony Field
+To The Cold Plains	To The Cold Plains
+To The Blood Moor	To The Blood Moor
+To The Rogue Encampment	To The Rogue Encampment
+Deathmessage	Death takes its toll of 123 Gold
+Deathmessnight	You have lost experience
+Harddeathmessage	Your deeds of valor will be remembered
+LordofTerrordied	123 Seconds Until Game Ends
+Killdiablo1	Congratulations!
+KillDiablo2	You Have Vanquished Diablo
+KillDiablo3	Will Henceforth Be Known As

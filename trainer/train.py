@@ -15,7 +15,10 @@ from utils import CTCLabelConverter, AttnLabelConverter, Averager
 from dataset import hierarchical_dataset, AlignCollate, Batch_Balanced_Dataset
 from model import Model
 from test import validation
+
+
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+
 
 def count_parameters(model):
     print("Modules, Parameters")
@@ -272,11 +275,15 @@ def train(opt, show_number = 2, amp=False):
                 print('validation time: ', time.time()-t1)
                 t1=time.time()
         # save model per 1e+4 iter.
-        if (i + 1) % 1e+4 == 0:
+        if (i + 1) % 2500 == 0:
             torch.save(
                 model.state_dict(), f'./saved_models/{opt.experiment_name}/iter_{i+1}.pth')
 
         if i == opt.num_iter:
             print('end the training')
             sys.exit()
+            
+        if i % 1000 == 0 and i != 0:
+            print(f"Finished epoch {i}")
+            
         i += 1
